@@ -1,0 +1,45 @@
+# The objective of this GitHub Action is to update the leetcode DIRECTORY.md file (if needed)
+# when doing a git push
+name: leetcode_directory_writer
+on:
+  push:
+    paths:
+      - "leetcode/src/**.c"
+    branches:
+      - master
+jobs:
+  build:
+    if: github.repository == 'TheAlgorithms/C' # We only need this to run in our repository.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - name: Add python dependencies
+        run: |
+          pip install requests
+      - name: Write LeetCode DIRECTORY.md
+        run: |
+          python3 scripts/leetcode_directory_md.py 2>&1 | tee leetcode/DIRECTORY.md
+      - name: Setup Git configurations
+        shell: bash
+        run: |
+          git config --global user.name github-actions[bot]
+          git config --global user.email 'github-actions@users.noreply.github.com'
+      - name: Committing changes
+        shell: bash
+        run: |
+          git checkout -b leetcode-directory-${{ github.sha }}
+          git commit -m "docs: updating `leetcode/DIRECTORY.md`"
+          git push origin leetcode-directory-${{ github.sha }}:leetcode-directory-${{ github.sha }}
+      - name: Creating the pull request
+        shell: bash
+        run: |
+          if [[ $(git log --branches --not --remotes) ]]; then
+            gh pr create --base ${GITHUB_REF##*/} --head leetcode-directory-${{ github.sha }} --title 'docs: updating `leetcode/DIRECTORY.md`' --body 'Updated LeetCode directory (see the diff. for changes).' || true
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}

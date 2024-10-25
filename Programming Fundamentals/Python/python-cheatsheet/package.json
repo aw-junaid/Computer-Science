@@ -1,0 +1,78 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite-ssg build",
+    "preview": "vite preview",
+    "test": "vitest --run",
+    "lint": "eslint .",
+    "typecheck": "vue-tsc --noEmit",
+    "fetch-contributors": "esno scripts/fetch-contributors.ts"
+  },
+  "dependencies": {
+    "@docsearch/js": "^3.6.2",
+    "@headlessui/vue": "^1.7.23",
+    "@vueuse/core": "^10.11.1",
+    "@vueuse/head": "^2.0.0",
+    "esbuild": "0.23.1",
+    "pinia": "^2.2.2",
+    "prism-theme-vars": "^0.2.5",
+    "vue": "^3.5.10",
+    "vue-gtag": "^2.0.1",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.9",
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/fs-extra": "^11.0.4",
+    "@types/markdown-it": "^14.1.2",
+    "@types/markdown-it-link-attributes": "^3.0.5",
+    "@types/node": "^20.16.10",
+    "@types/string": "0.0.34",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/compiler-dom": "3.4.35",
+    "@vue/test-utils": "^2.4.6",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-vue": "^9.28.0",
+    "esno": "^4.7.0",
+    "fs-extra": "^11.2.0",
+    "happy-dom": "^14.12.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-link-attributes": "^4.0.1",
+    "markdown-it-prism": "^2.3.0",
+    "ofetch": "^1.4.0",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "prismjs": "^1.29.0",
+    "string": "^3.3.3",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-vue-components": "^0.27.4",
+    "unplugin-vue-markdown": "^0.26.2",
+    "vite": "^5.4.8",
+    "vite-plugin-pages": "^0.32.3",
+    "vite-plugin-pwa": "^0.20.5",
+    "vite-plugin-vue-layouts": "^0.11.0",
+    "vite-ssg": "^0.23.8",
+    "vite-ssg-sitemap": "^0.6.1",
+    "vitest": "^1.6.0",
+    "vue-tsc": "^2.1.6"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "react",
+        "react-dom",
+        "@types/react"
+      ]
+    }
+  }
+}

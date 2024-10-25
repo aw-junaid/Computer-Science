@@ -1,0 +1,20 @@
+image:
+  file: .gitpod.dockerfile
+
+github:
+  prebuilds:
+    addBadge: true
+    addComment: false
+    addCheck: false
+    master: true
+    branches: true
+    pullRequestsFromForks: true
+
+vscode:
+  extensions:
+  # - ms-vscode.cpptools
+    - twxs.cmake
+    - ms-vscode.cmake-tools
+    - mhutchie.git-graph
+    - notskm.clang-tidy
+    - mitaki28.vscode-clang

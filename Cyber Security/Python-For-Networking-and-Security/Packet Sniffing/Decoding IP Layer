@@ -1,0 +1,116 @@
+```python
+
+import socket
+import os
+import struct
+from ctypes import *
+
+# host to listen on
+host = "192.168.0.187"
+
+
+class IP(Structure):
+    _fields_ = [
+        ("ihl", c_ubyte, 4),
+        ("version", c_ubyte, 4),
+        ("tos", c_ubyte),
+        ("len", c_ushort),
+        ("id", c_ushort),
+        ("offset", c_ushort),
+        ("ttl", c_ubyte),
+        ("protocol_num", c_ubyte),
+        ("sum", c_ushort),
+        ("src", c_uint32),
+        ("dst", c_uint32)
+    ]
+
+    def __new__(cls, socket_buffer=None):
+        return cls.from_buffer_copy(socket_buffer)
+
+    def __init__(self, socket_buffer=None):
+        self.socket_buffer = socket_buffer
+
+        # map protocol constants to their names
+        self.protocol_map = {1: "ICMP", 6: "TCP", 17: "UDP"}
+
+        # human readable IP addresses
+        self.src_address = socket.inet_ntoa(struct.pack("@I", self.src))
+        self.dst_address = socket.inet_ntoa(struct.pack("@I", self.dst))
+
+        # human readable protocol
+        try:
+            self.protocol = self.protocol_map[self.protocol_num]
+        except IndexError:
+            self.protocol = str(self.protocol_num)
+
+
+# create a raw socket and bind it to the public interface
+if os.name == "nt":
+    socket_protocol = socket.IPPROTO_IP
+else:
+    socket_protocol = socket.IPPROTO_ICMP
+
+sniffer = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket_protocol)
+
+sniffer.bind((host, 0))
+
+# we want the IP headers included in the capture
+sniffer.setsockopt(socket.IPPROTO_IP, socket.IP_HDRINCL, 1)
+
+# if we're on Windows we need to send some ioctl
+# to setup promiscuous mode
+if os.name == "nt":
+    sniffer.ioctl(socket.SIO_RCVALL, socket.RCVALL_ON)
+
+try:
+    while True:
+        # read in a single packet
+        raw_buffer = sniffer.recvfrom(65535)[0]
+
+        # create an IP header from the first 20 bytes of the buffer
+        ip_header = IP(raw_buffer[:20])
+
+        print("Protocol: %s %s -> %s" % (
+            ip_header.protocol,
+            ip_header.src_address,
+            ip_header.dst_address)
+              )
+
+except KeyboardInterrupt:
+    # if we're on Windows turn off promiscuous mode
+    if os.name == "nt":
+        sniffer.ioctl(socket.SIO_RCVALL, socket.RCVALL_OFF)
+```
+This Python code is an implementation of a basic packet sniffer using raw sockets. It captures and decodes the IP layer of the incoming packets, printing information such as the protocol, source address, and destination address. The script uses the `socket` and `struct` modules for low-level network communication and structure unpacking.
+
+Let's break down the code:
+
+1. **Define the IP Structure:**
+   - The `IP` class is defined as a `ctypes` structure. It represents the structure of an IP header with various fields such as version, length, time to live (TTL), protocol number, source IP, destination IP, etc.
+
+2. **Initialize IP Header:**
+   - The `__new__` method is used to create a new instance of the `IP` class by copying the buffer containing the raw data.
+   - The `__init__` method is then used to initialize some additional attributes like human-readable source and destination IP addresses and the protocol name.
+
+3. **Create a Raw Socket:**
+   - The script creates a raw socket using `socket.AF_INET` for IPv4 and `socket.SOCK_RAW` to capture raw packets.
+
+4. **Bind the Socket:**
+   - The socket is bound to the specified host and port 0. Port 0 allows the operating system to choose an available port.
+
+5. **Set IP Header Option:**
+   - The script sets the `IP_HDRINCL` option using `setsockopt` to include the IP headers in the captured packet.
+
+6. **Enable Promiscuous Mode (Windows Only):**
+   - If the script is running on Windows, it sends an IOCTL command to enable promiscuous mode, allowing the socket to capture all incoming packets.
+
+7. **Capture and Decode Packets in a Loop:**
+   - The script enters a loop where it continuously captures packets using `recvfrom`.
+   - The first 20 bytes of the raw packet are used to create an instance of the `IP` class, decoding the IP header.
+   - Information from the decoded IP header, such as the protocol, source address, and destination address, is then printed.
+
+8. **Handle KeyboardInterrupt:**
+   - The script handles a `KeyboardInterrupt` (Ctrl+C) to gracefully exit the loop.
+   - If the script is running on Windows, it turns off promiscuous mode before exiting.
+
+It's important to note that this script is a basic example and may need modification for specific use cases. Additionally, raw socket programming requires elevated privileges, and using it for packet sniffing may have legal and ethical implications. Always ensure that you have the right to monitor and analyze network traffic in the environment where the script is used. Unauthorized interception of network traffic is generally illegal and against ethical guidelines.

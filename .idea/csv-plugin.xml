@@ -17,6 +17,90 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Programming Fundamentals/Python/Python Algorithms/machine_learning/forecasting/ex_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Algorithms/machine_learning/lstm/sample_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter04/documents/top_films.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter06/movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter07/aggregate_OH.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter07/output_1_OH.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter07/output_2_OH.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter07/output_3_OH.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Automation Cookbook/Chapter08/scatter.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Scripting for System Administrators/Chapter05/student1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Scripting for System Administrators/Chapter05/student2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Programming Fundamentals/Python/Python Scripting for System Administrators/Chapter17/employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

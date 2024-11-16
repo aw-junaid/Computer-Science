@@ -208,4 +208,3 @@ END;
 2. Create a PL/SQL block to calculate the factorial of a given number using a `WHILE` loop.
 3. Use a cursor and a `FOR` loop to iterate through rows in a table and print all employee names with a salary greater than 5000.
 
-Let me know if you’d like help with solutions or further explanations!

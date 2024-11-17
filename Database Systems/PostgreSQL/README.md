@@ -1,35 +1,7 @@
-![Logo](https://github.com/aw-junaid/PostgreSQL/blob/main/How%20to%20Install%20PostgreSQL%20on%20Linux.jpg?raw=true)
-
-![Discord](https://img.shields.io/discord/1163365511309049948)
-![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClhKVCHjOxBTNM50lOBTgoA)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abw_Junaid)
-![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
 
 # PostgreSQL
 
 PostgreSQL is a powerful, open-source object-relational database system (ORDBMS) with over 30 years of active development. It is known for its reliability, feature richness, and performance. PostgreSQL is used by a wide range of organizations, from small businesses to Fortune 500 companies, to power their most demanding applications.
-
-## 🔗 Links
-[![my_portfolio](https://img.shields.io/badge/Personal_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://awjunaid.com/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aw-junaid/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abw_Junaid)
-
-[![patreon](https://img.shields.io/badge/patreon-FF0000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/awjunaid)
-
-[![facebook](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdulwahjunaid)
-
-[![instagram](https://img.shields.io/badge/instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4wji_in41d)
-
-[![twitch](https://img.shields.io/badge/twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/awjunaid)
-
-[![vk](https://img.shields.io/badge/vk-2a5885?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/aw.junaid)
-
-[![pinterest](https://img.shields.io/badge/pinterest-ff0000?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/abwjunaid/)
 
 
 ## Features

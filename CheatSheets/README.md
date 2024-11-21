@@ -50,7 +50,7 @@
   - **Computer Networks**
   - - [Computer Networks](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/Computer%20Networks.md)
     - [IPv4](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/ipv4.md)
-    - [IPv4](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/ipv6.md)
+    - [IPv6](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/ipv6.md)
     - [Subnetting](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/Subnetting.md)
     - [OSI Model](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/OSI%20Model.md)
     - [Unicast, Broadcast, and Multicast](https://github.com/thewitcher21/Computer-Science/blob/main/CheatSheets/Cheatsheets/Unicast%2C%20Broadcast%2C%20and%20multicast.md)

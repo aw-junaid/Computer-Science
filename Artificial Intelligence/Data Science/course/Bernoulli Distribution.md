@@ -8,13 +8,13 @@ The Bernoulli distribution is characterized by a single parameter:
 
 The probability mass function (PMF) of the Bernoulli distribution is given by:
 
-$\[
+```math
 P(X = x) = 
 \begin{cases} 
 p & \text{if } x = 1 \\
 1 - p & \text{if } x = 0
 \end{cases}
-\]$
+```
 
 Where:
 - \( x \) is the random variable, which can either be 0 (failure) or 1 (success).

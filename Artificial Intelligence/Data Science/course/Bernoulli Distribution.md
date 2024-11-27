@@ -4,26 +4,26 @@ The **Bernoulli distribution** is a discrete probability distribution that model
 
 The Bernoulli distribution is characterized by a single parameter:
 - **p**: The probability of success (the probability of getting a 1).
-- The probability of failure (getting a 0) is \( 1 - p \).
+- The probability of failure (getting a 0) is $\( 1 - p \)$.
 
 The probability mass function (PMF) of the Bernoulli distribution is given by:
 
-\[
+$\[
 P(X = x) = 
 \begin{cases} 
 p & \text{if } x = 1 \\
 1 - p & \text{if } x = 0
 \end{cases}
-\]
+\]$
 
 Where:
 - \( x \) is the random variable, which can either be 0 (failure) or 1 (success).
 - \( p \) is the probability of success (getting a 1).
 
 ### Key Properties of the Bernoulli Distribution:
-- **Mean**: \( \mu = p \)
-- **Variance**: \( \sigma^2 = p(1 - p) \)
-- **Standard Deviation**: \( \sigma = \sqrt{p(1 - p)} \)
+- **Mean**: $\( \mu = p \)$
+- **Variance**: $\( \sigma^2 = p(1 - p) \)$
+- **Standard Deviation**: $\( \sigma = \sqrt{p(1 - p)} \)$
 
 ### Applications of Bernoulli Distribution:
 - **Coin toss**: A simple example of a Bernoulli distribution is flipping a coin, where the outcome can be either heads (success) or tails (failure), and the probability of heads (success) is \( p = 0.5 \).
@@ -91,8 +91,8 @@ This will display a bar chart showing the probability of success (1) and failure
 
 You can calculate the probability of observing either a success or a failure using the **Bernoulli PMF**. The PMF can be computed directly using the formula:
 
-- \( P(X = 1) = p \)
-- \( P(X = 0) = 1 - p \)
+- $\( P(X = 1) = p \)$
+- $\( P(X = 0) = 1 - p \)$
 
 Alternatively, you can use `scipy.stats.bernoulli.pmf()` to calculate the PMF for a specific outcome.
 
@@ -153,8 +153,8 @@ Since the Bernoulli distribution only has two possible outcomes, this function w
 ### 7. **Mean and Variance of Bernoulli Distribution**
 
 The **mean** and **variance** of a Bernoulli distribution can be calculated using the formulas:
-- Mean: \( \mu = p \)
-- Variance: \( \sigma^2 = p(1 - p) \)
+- Mean: $\( \mu = p \)$
+- Variance: $\( \sigma^2 = p(1 - p) \)$
 
 #### Example: Calculating Mean and Variance
 

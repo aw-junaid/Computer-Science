@@ -1,3 +1,20 @@
 > Matplotlib is a widely-used, open-source plotting library for the Python programming language. It provides a range of tools for creating static, animated, and interactive visualizations. It is primarily used for 2D plotting, but can also generate 3D plots with the help of additional modules.
 
-[What Is Matplotlib?](url)
+- [What Is Matplotlib?](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/What%20Is%20Matplotlib%3F.md)
+- [Matplotlib VS Seaborn](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20VS%20Seaborn.md)
+- [Environment Setup](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Environment%20Setup.md)
+- [Anaconda Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Anaconda%20Distribution.md)
+- [Jupyter Notebook](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Jupyter%20Notebook.md)
+- [Pyplot API](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Pyplot%20API.md)
+- [Simple Plot](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Simple%20Plot.md)
+- [Saving Figures](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Saving%20Figures.md)
+- [Markers](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Markers.md)
+- [Matplotlib - Figures](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Figures.md)
+- [Matplotlib - Styles](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Styles.md)
+- [Matplotlib - Legends](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Legends.md)
+- [Matplotlib - Colors](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Colors.md)
+- [Matplotlib - Colormaps](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Colormaps.md)
+- [Matplotlib - Colormap Normalization](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Colormap%20Normalization.md)
+- [Matplotlib - Choosing Colormaps](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Choosing%20Colormaps.md)
+- [Matplotlib - Colorbars](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Matplotlib/Course/Matplotlib%20-%20Colorbars.md)
+

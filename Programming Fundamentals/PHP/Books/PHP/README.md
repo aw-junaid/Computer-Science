@@ -52,6 +52,24 @@
 - [PHP - Associative Array](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/Course/PHP%20-%20Associative%20Array.md)
 - [PHP - Multidimensional Array](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/Course/PHP%20-%20Multidimensional%20Array.md)
 - [PHP Array Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/Course/PHP%20Array%20Functions.md)
-
+- [PHP - Constant Arrays](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Constant%20Arrays.md)
+- [PHP - Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Functions.md)
+- [PHP - Call by Value](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Call%20by%20Value.md)
+- [PHP - Call by Reference](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Call%20by%20Reference.md)
+- [PHP - Default Arguments](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Default%20Arguments.md)
+- [PHP - Variable Arguments](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Variable%20Arguments.md)
+- [PHP - Returning Values](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Returning%20Values.md)
+- [PHP - Passing Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Passing%20Functions.md)
+- [Recursive functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Recursive%20Functions.md)
+- [PHP - Type Hints](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Type%20Hints.md)
+- [PHP - Variable Scope](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Variable%20Scope.md)
+- [PHP - Strict Typing](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Strict%20Typing.md)
+- [PHP - Anonymous Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Anonymous%20Functions.md)
+- [PHP - Arrow Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Arrow%20Functions.md)
+- [PHP Variable Handling Functions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20Variable%20Handling%20Functions.md)
+- [PHP - Local Variables](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Local%20Variables.md)
+- [PHP - Global Variables](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Global%20Variables.md)
+- [PHP - Superglobals](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/PHP/Books/PHP/course2/PHP%20-%20Superglobals.md)
+- 
 
 

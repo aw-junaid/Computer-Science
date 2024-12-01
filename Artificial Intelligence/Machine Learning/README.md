@@ -33,3 +33,16 @@
 - [Machine Learning - Density Plots](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Machine%20Learning%20-%20Density%20Plots.md)
 - [Box and Whisker Plots](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Box%20and%20Whisker%20Plots.md)
 - [Correlation Matrix Plot](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Correlation%20Matrix%20Plot.md)
+- [Scatter Matrix Plot](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Scatter%20Matrix%20Plot.md)
+- [Statistics for Machine Learning](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Statistics%20for%20Machine%20Learning.md)
+- [Mean, Median, Mode](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Mean%2C%20Median%2C%20Mode.md)
+- [Standard Deviation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Standard%20Deviation.md)
+- [Percentiles](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Percentiles.md)
+- [Data Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Data%20Distribution.md)
+- [Skewness and Kurtosis](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Machine%20Learning/course/Skewness%20and%20Kurtosis.md)
+
+
+
+
+
+

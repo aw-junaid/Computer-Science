@@ -1,0 +1,3 @@
+- [Statistics](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Statistics.md)
+- [Analysis of Variance](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Analysis%20of%20Variance.md)
+- [Arithmetic Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Arithmetic%20Mean.md)

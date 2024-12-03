@@ -8,4 +8,10 @@
 - [Bar Graph](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Bar%20Graph.md)
 - [Best Point Estimation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Best%20Point%20Estimation.md)
 - [Beta Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Beta%20Distribution.md)
-- 
+- [Binomial Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Binomial%20Distribution.md)
+- [Black-Scholes model](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Black-Scholes%20model.md)
+- [Boxplots](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Boxplots.md)
+- [Central limit theorem](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Central%20limit%20theorem.md)
+- [Chebyshev's Theorem](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Chebyshev's%20Theorem.md)
+- [Chi-squared Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Chi-squared%20Distribution.md)
+- [Chi Squared table](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Chi%20Squared%20table.md)

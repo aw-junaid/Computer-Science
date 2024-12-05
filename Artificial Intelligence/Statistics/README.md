@@ -34,3 +34,19 @@
 - [Data collection - Case Study Method](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Data%20collection%20-%20Case%20Study%20Method.md)
 - [Statistics - Data Patterns](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Statistics%20-%20Data%20Patterns.md)
 - [Deciles Statistics](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Deciles%20Statistics.md)
+- [Discrete Series Arithmetic Median](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Discrete%20Series%20Arithmetic%20Median.md)
+- [Discrete Series Arithmetic Mode](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Discrete%20Series%20Arithmetic%20Mode.md)
+- [Dot Plot](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Dot%20Plot.md)
+- [Exponential distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Exponential%20distribution.md)
+- [F distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/F%20distribution.md)
+- [F Test Table](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/F%20Test%20Table.md)
+- [Factorial](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Factorial.md)
+- [Frequency Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Frequency%20Distribution.md)
+- [Gamma Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Gamma%20Distribution.md)
+- [Geometric Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Geometric%20Mean.md)
+- [Geometric Probability Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Geometric%20Probability%20Distribution.md)
+- [Goodness of Fit](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Goodness%20of%20Fit.md)
+
+
+
+

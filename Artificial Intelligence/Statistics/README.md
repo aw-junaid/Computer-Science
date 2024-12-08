@@ -78,6 +78,10 @@
 - [Permutation with Replacement](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Permutation%20with%20Replacement.md)
 - [Pie Chart](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Pie%20Chart.md)
 - [Poisson Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Poisson%20Distribution.md)
+- [Pooled variance](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Pooled%20Variance%20(r).md)
+- [Power Calculator](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Power%20Calculator.md)
+- [Probability](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Probability.md)
+- [Probability Additive Theorem](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Probability%20Additive%20Theorem.md)
 
 
 

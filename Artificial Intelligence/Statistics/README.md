@@ -66,7 +66,18 @@
 - [Log Gamma Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Log%20Gamma%20Distribution.md)
 - [Logistic regression](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Logistic%20Regression.md)
 - [Mcnemar Test](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Mcnemar%20Test.md)
-- 
+- [Mean Deviation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Mean%20Deviation.md)
+- [Means Difference](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Means%20Difference.md)
+- [Multinomial Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Multinomial%20Distribution.md)
+- [Negative Binomial Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Negative%20Binomial%20Distribution.md)
+- [Normal Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Normal%20Distribution.md)
+- [Odd and Even Permutation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Odd%20and%20Even%20Permutation.md)
+- [One Proportion Z Test](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/One%20Proportion%20Z%20Test.md)
+- [Outlier Function](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Outlier%20Function.md)
+- [Permutation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Permutation.md)
+- [Permutation with Replacement](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Permutation%20with%20Replacement.md)
+- [Pie Chart](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Pie%20Chart.md)
+- [Poisson Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Poisson%20Distribution.md)
 
 
 

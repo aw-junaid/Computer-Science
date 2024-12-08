@@ -46,6 +46,27 @@
 - [Geometric Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Geometric%20Mean.md)
 - [Geometric Probability Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Geometric%20Probability%20Distribution.md)
 - [Goodness of Fit](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Goodness%20of%20Fit.md)
+- [Grand Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Grand%20Mean.md)
+- [Gumbel Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Gumbel%20Distribution.md)
+- [Harmonic Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Harmonic%20Mean.md)
+- [Harmonic Number](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Harmonic%20Number.md)
+- [Harmonic Resonance Frequency](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Harmonic%20Resonance%20Frequency.md)
+- [Histograms](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Histograms.md)
+- [Hypergeometric Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Hypergeometric%20Distribution.md)
+- [Hypothesis testing](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Hypothesis%20testing.md)
+- [Individual Series Arithmetic Mean](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Individual%20Series%20Arithmetic%20Mean.md)
+- [Individual Series Arithmetic Median](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Individual%20Series%20Arithmetic%20Median.md)
+- [Individual Series Arithmetic Mode](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Individual%20Series%20Arithmetic%20Mode.md)
+- [Interval Estimation](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Interval%20Estimation.md)
+- [Inverse Gamma Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Inverse%20Gamma%20Distribution.md)
+- [Kolmogorov Smirnov Test](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Kolmogorov%20Smirnov%20Test.md)
+- [Kurtosis](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Kurtosis.md)
+- [Laplace Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Laplace%20Distribution.md)
+- [Linear regression](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Linear%20regression.md)
+- [Log Gamma Distribution](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Log%20Gamma%20Distribution.md)
+- [Logistic regression](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Logistic%20Regression.md)
+- [Mcnemar Test](https://github.com/aw-junaid/Computer-Science/blob/main/Artificial%20Intelligence/Statistics/course/Mcnemar%20Test.md)
+- 
 
 
 

@@ -129,4 +129,4 @@ To set this up, you would need to:
 
 ---
 
-By following these steps, you will have a basic serverless setup that can be expanded with various functions and services across different cloud providers. Let me know if you need further details on a specific platform or configuration!
+By following these steps, you will have a basic serverless setup that can be expanded with various functions and services across different cloud providers.

@@ -1,0 +1,17 @@
+LaTeX (pronounced "Lay-tech" or "Lah-tech") is a document preparation system widely used for creating professional-quality documents. It is particularly popular in academia, especially in fields such as mathematics, physics, computer science, and engineering, where documents often include complex mathematical formulas and technical content.
+
+> - [What is LaTeX?](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/What%20is%20LaTeX%3F.md)
+> - [Why learn LaTeX?](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Why%20learn%20LaTeX%3F.md)
+> - [Writing your first piece of LaTeX](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Writing%20your%20first%20piece%20of%20LaTeX.md)
+> - [The preamble of a document](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/The%20preamble%20of%20a%20document.md)
+> - [Including title, author and date information](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Including%20title%2C%20author%20and%20date%20information.md)
+> - [Adding comments](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Adding%20comments.md)
+> - [Bold, italics and underlining](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Bold%2C%20italics%20and%20underlining.md)
+> - [Adding images](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Adding%20images.md)
+> - [Captions, labels and references](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Captions%2C%20labels%20and%20references.md)
+> - [Creating lists in LaTeX](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Creating%20lists%20in%20LaTeX.md)
+> - [Adding math to LaTeX](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Adding%20math%20to%20LaTeX.md)
+> - [Basic document structure](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Basic%20document%20structure.md)
+> - [Creating tables](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Creating%20tables.md)
+> - [Adding a Table of Contents](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Adding%20a%20Table%20of%20Contents.md)
+> - [Mathematical expressions](https://github.com/aw-junaid/Computer-Science/blob/main/LATEX/Course/Mathematical%20expressions.md)

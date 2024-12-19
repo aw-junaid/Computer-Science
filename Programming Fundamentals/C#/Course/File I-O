@@ -1,0 +1,393 @@
+### C# - File I/O (Input/Output)
+
+File I/O (Input/Output) in C# refers to the process of reading from and writing to files. C# provides classes in the `System.IO` namespace to work with files and directories, such as `File`, `FileInfo`, `StreamReader`, `StreamWriter`, `FileStream`, and `DirectoryInfo`.
+
+The most common operations in File I/O include:
+
+1. **Reading from a file**
+2. **Writing to a file**
+3. **Checking file existence**
+4. **Deleting a file**
+5. **Manipulating directories**
+
+### Key Classes in `System.IO`
+
+- **`File`**: Contains static methods for file manipulation (e.g., `Create`, `Delete`, `Exists`).
+- **`FileInfo`**: Provides instance methods for file manipulation and information (e.g., `Create`, `Delete`, `Length`).
+- **`StreamReader`**: Reads characters from a byte stream in a particular encoding.
+- **`StreamWriter`**: Writes characters to a byte stream in a particular encoding.
+- **`FileStream`**: Provides low-level file access (read and write operations).
+- **`Directory`**: Contains static methods for manipulating directories (e.g., `CreateDirectory`, `Delete`, `Exists`).
+
+### Basic File I/O Operations
+
+#### 1. **Reading from a File**
+You can read the contents of a file using `StreamReader` or `File.ReadAllText`.
+
+##### Using `StreamReader`
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "example.txt";
+
+        try
+        {
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                string content = reader.ReadToEnd();  // Reads all content
+                Console.WriteLine(content);
+            }
+        }
+        catch (FileNotFoundException ex)
+        {
+            Console.WriteLine("File not found: " + ex.Message);
+        }
+    }
+}
+```
+
+##### Explanation:
+- **`StreamReader`** is used to read text from a file.
+- **`ReadToEnd()`** reads the entire file content.
+
+##### Using `File.ReadAllText`
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "example.txt";
+        
+        try
+        {
+            string content = File.ReadAllText(filePath);  // Reads entire file
+            Console.WriteLine(content);
+        }
+        catch (FileNotFoundException ex)
+        {
+            Console.WriteLine("File not found: " + ex.Message);
+        }
+    }
+}
+```
+
+#### 2. **Writing to a File**
+
+You can write text to a file using `StreamWriter` or `File.WriteAllText`.
+
+##### Using `StreamWriter`
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "output.txt";
+
+        try
+        {
+            using (StreamWriter writer = new StreamWriter(filePath))
+            {
+                writer.WriteLine("Hello, world!");  // Writes text to file
+                writer.WriteLine("Welcome to C#!");
+            }
+            Console.WriteLine("File written successfully.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+##### Explanation:
+- **`StreamWriter`** is used to write text to a file.
+- **`WriteLine()`** writes a line of text to the file.
+
+##### Using `File.WriteAllText`
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "output.txt";
+        string content = "Hello, world!\nWelcome to C#!";
+
+        try
+        {
+            File.WriteAllText(filePath, content);  // Writes all content at once
+            Console.WriteLine("File written successfully.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+#### 3. **Checking if a File Exists**
+
+You can check if a file exists using `File.Exists`.
+
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "example.txt";
+        
+        if (File.Exists(filePath))
+        {
+            Console.WriteLine("File exists.");
+        }
+        else
+        {
+            Console.WriteLine("File does not exist.");
+        }
+    }
+}
+```
+
+#### 4. **Deleting a File**
+
+You can delete a file using `File.Delete`.
+
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "output.txt";
+        
+        try
+        {
+            if (File.Exists(filePath))
+            {
+                File.Delete(filePath);  // Deletes the file
+                Console.WriteLine("File deleted successfully.");
+            }
+            else
+            {
+                Console.WriteLine("File does not exist.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+#### 5. **Appending to a File**
+
+You can append content to a file using `StreamWriter` or `File.AppendAllText`.
+
+##### Using `StreamWriter` with `Append` mode:
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "output.txt";
+        
+        try
+        {
+            using (StreamWriter writer = new StreamWriter(filePath, true))
+            {
+                writer.WriteLine("Appending a new line.");
+            }
+            Console.WriteLine("Text appended to file.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+##### Using `File.AppendAllText`:
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "output.txt";
+        string content = "Appending new content.";
+
+        try
+        {
+            File.AppendAllText(filePath, content + Environment.NewLine);  // Appends text to the file
+            Console.WriteLine("Text appended to file.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+### FileStream: Reading and Writing in Binary Mode
+
+You can also work with binary data using `FileStream`. `FileStream` allows you to read and write raw bytes to and from files.
+
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "example.bin";
+
+        // Writing binary data
+        try
+        {
+            using (FileStream fs = new FileStream(filePath, FileMode.Create))
+            {
+                byte[] data = { 1, 2, 3, 4, 5 };
+                fs.Write(data, 0, data.Length);  // Writes binary data to file
+            }
+
+            Console.WriteLine("Binary data written to file.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+
+        // Reading binary data
+        try
+        {
+            using (FileStream fs = new FileStream(filePath, FileMode.Open))
+            {
+                byte[] buffer = new byte[fs.Length];
+                fs.Read(buffer, 0, buffer.Length);  // Reads binary data from file
+                Console.WriteLine("Read binary data: " + string.Join(",", buffer));
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+### Directory Operations
+
+#### Creating and Deleting Directories
+
+- **`Directory.CreateDirectory()`**: Creates a directory and any necessary subdirectories.
+- **`Directory.Delete()`**: Deletes an empty directory.
+
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string directoryPath = @"C:\TestDirectory";
+
+        // Create Directory
+        try
+        {
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+                Console.WriteLine("Directory created successfully.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+
+        // Delete Directory
+        try
+        {
+            if (Directory.Exists(directoryPath))
+            {
+                Directory.Delete(directoryPath);
+                Console.WriteLine("Directory deleted successfully.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+#### Listing Files in a Directory
+
+You can list files in a directory using `Directory.GetFiles()`.
+
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string directoryPath = @"C:\TestDirectory";
+
+        try
+        {
+            string[] files = Directory.GetFiles(directoryPath);
+            Console.WriteLine("Files in directory:");
+            foreach (string file in files)
+            {
+                Console.WriteLine(file);
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
+}
+```
+
+### Summary
+
+- **`StreamReader` and `StreamWriter`**: Useful for reading and writing text files.
+- **`FileStream`**: Ideal for working with binary data.
+- **`File` and `Directory` classes**: Provide methods for creating, checking existence, and deleting files and directories.
+- **Exception Handling**: Always handle possible exceptions like `FileNotFoundException`, `UnauthorizedAccessException`, etc., when dealing with file operations.
+
+These tools and classes in C# allow you to efficiently work with file and directory systems for tasks like data storage, file manipulation, and input/output operations.

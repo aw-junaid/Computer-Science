@@ -1,4 +1,4 @@
-A typical LAMP stack course covers the following topics, focusing on how to build dynamic, database-driven websites using the LAMP technology stack: Linux, Apache, MySQL, and PHP. Below is an outline of the content you might encounter:
+# A typical LAMP stack course covers the following topics, focusing on how to build dynamic, database-driven websites using the LAMP technology stack: Linux, Apache, MySQL, and PHP. Below is an outline of the content you might encounter:
 
 ### 1. **Introduction to LAMP Stack**
    - [What is LAMP? Overview of the technology stack (Linux, Apache, MySQL, PHP/Perl/Python)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/What%20is%20LAMP%3F%20Overview%20of%20the%20technology%20stack%20(Linux%2C%20Apache%2C%20MySQL%2C%20PHP-Perl-Python).md)
@@ -42,22 +42,22 @@ A typical LAMP stack course covers the following topics, focusing on how to buil
    - [Handling form submissions and data validation](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Handling%20form%20submissions%20and%20data%20validation.md)
    -[ Displaying dynamic data from MySQL in PHP pages](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Displaying%20dynamic%20data%20from%20MySQL%20in%20PHP%20pages.md)
    - [Implementing CRUD operations (Create, Read, Update, Delete) in PHP](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Implementing%20CRUD%20operations%20(Create%2C%20Read%2C%20Update%2C%20Delete)%20in%20PHP.md)
-   - Using prepared statements to prevent SQL injection
+   - [Using prepared statements to prevent SQL injection](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Using%20prepared%20statements%20to%20prevent%20SQL%20injection.md)
 
 ### 7. **Web Development with LAMP**
-   - Building a basic website with PHP and MySQL
+   - [Building a basic website with PHP and MySQL](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Building%20a%20basic%20website%20with%20PHP%20and%20MySQ.md)
    - [User authentication and authorization (login/logout, session management)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/User%20authentication%20and%20authorization%20(loginlogout%2C%20session%20management).md)
    - [Working with cookies and sessions](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Working%20with%20cookies%20and%20sessions.md)
    - [Implementing file upload and download features](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Implementing%20file%20upload%20and%20download%20features.md)
    - [Form handling, validation, and error messages](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Form%20handling%2C%20validation%2C%20and%20error%20messages.md)
    - [Creating RESTful APIs with PHP and MySQL](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Creating%20RESTful%20APIs%20with%20PHP%20and%20MySQL.md)
-   - Basic security techniques for web applications (password hashing, HTTPS)
+   - [Basic security techniques for web applications (password hashing, HTTPS)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Basic%20security%20techniques%20for%20web%20applications%20(password%20hashing%2C%20HTTPS).md)
 
 ### 8. **Apache Performance Tuning and Optimization**
    - [Caching with Apache (mod_cache, mod_expires)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Caching%20with%20Apache%20(mod_cache%2C%20mod_expires).md)
    - [Optimizing Apache configuration for high-traffic websites](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Optimizing%20Apache%20configuration%20for%20high-traffic%20websites.md)
    - [Load balancing and clustering with Apache](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Load%20balancing%20and%20clustering%20with%20Apache.md)
-   - Troubleshooting Apache server issues
+   - [Troubleshooting Apache server issues](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Troubleshooting%20Apache%20server%20issues.md)
 
 ### 9. **Advanced PHP Techniques**
    - [MVC architecture (Model-View-Controller) in PHP](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/MVC%20architecture%20(Model-View-Controller)%20in%20PHP.md)

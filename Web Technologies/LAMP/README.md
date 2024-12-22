@@ -2,27 +2,27 @@ A typical LAMP stack course covers the following topics, focusing on how to buil
 
 ### 1. **Introduction to LAMP Stack**
    - [What is LAMP? Overview of the technology stack (Linux, Apache, MySQL, PHP/Perl/Python)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/What%20is%20LAMP%3F%20Overview%20of%20the%20technology%20stack%20(Linux%2C%20Apache%2C%20MySQL%2C%20PHP-Perl-Python).md)
-   - The role of each component in the stack
-   - Setting up the LAMP environment
+   - [The role of each component in the stack](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/The%20role%20of%20each%20component%20in%20the%20stack.md)
+   - [Setting up the LAMP environment](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Setting%20up%20the%20LAMP%20environment.md)
 
 ### 2. **Linux Basics**
-   - Introduction to Linux: Basic commands and file system navigation
-   - User management, permissions, and file access
-   - Package management with `apt` (Ubuntu/Debian) or `yum` (CentOS)
-   - Network configuration and system monitoring tools
+   - [Introduction to Linux: Basic commands and file system navigation](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Introduction%20to%20Linux%3A%20Basic%20commands%20and%20file%20system%20navigation.md)
+   - [User management, permissions, and file access](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/User%20management%2C%20permissions%2C%20and%20file%20access.md)
+   - [**Package management with `apt` (Ubuntu/Debian) or `yum` (CentOS**)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Package%20management%20with%20apt%20(Ubuntu-Debian)%20or%20yum%20(CentOS).md)
+   - [**Network configuration and system monitoring tools**](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Network%20configuration%20and%20system%20monitoring%20tools.md)
 
 ### 3. **Apache Web Server**
-   - Installing and configuring Apache on Linux
-   - Virtual hosts: Creating and managing different websites
-   - Apache modules and configuration files (`httpd.conf`, `.htaccess`)
-   - Securing Apache: SSL/TLS, password protection
-   - Managing Apache services (start, stop, restart)
+   - [Installing and configuring Apache on Linux](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Installing%20and%20configuring%20Apache%20on%20Linux.md)
+   - [Virtual hosts: Creating and managing different websites](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Virtual%20hosts%3A%20Creating%20and%20managing%20different%20websites.md)
+   - [Apache modules and configuration files (`httpd.conf`, `.htaccess`)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Apache%20modules%20and%20configuration%20files%20(httpd.conf%2C%20.htaccess).md)
+   - [Securing Apache: SSL/TLS, password protection](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Securing%20Apache%3A%20SSL.md)
+   - [Managing Apache services (start, stop, restart)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Managing%20Apache%20services%20(start%2C%20stop%2C%20restart).md)
 
 ### 4. **MySQL Database**
-   - Introduction to MySQL: Database concepts and relational databases
-   - Installing MySQL on a Linux server
-   - Basic MySQL commands: `SELECT`, `INSERT`, `UPDATE`, `DELETE`
-   - Creating and managing databases, tables, and users
+   - [Introduction to MySQL: Database concepts and relational databases](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Introduction%20to%20MySQL%3A%20Database%20concepts%20and%20relational%20databases.md)
+   - [Installing MySQL on a Linux server](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Installing%20MySQL%20on%20a%20Linux%20server.md)
+   - [Basic MySQL commands: `SELECT`, `INSERT`, `UPDATE`, `DELETE`](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Basic%20MySQL%20commands%3A%20SELECT%2C%20INSERT%2C%20UPDATE%2C%20DELETE.md)
+   - [Creating and managing databases, tables, and users](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/Creating%20and%20managing%20databases%2C%20tables%2C%20and%20users.md)
    - Using MySQL Workbench and other tools for database management
    - Advanced topics: Normalization, indexing, and optimization
    - Backup and restore strategies

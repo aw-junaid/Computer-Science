@@ -1,7 +1,7 @@
 A typical LAMP stack course covers the following topics, focusing on how to build dynamic, database-driven websites using the LAMP technology stack: Linux, Apache, MySQL, and PHP. Below is an outline of the content you might encounter:
 
 ### 1. **Introduction to LAMP Stack**
-   - [What is LAMP? Overview of the technology stack (Linux, Apache, MySQL, PHP/Perl/Python)](url)
+   - [What is LAMP? Overview of the technology stack (Linux, Apache, MySQL, PHP/Perl/Python)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/LAMP/Course/What%20is%20LAMP%3F%20Overview%20of%20the%20technology%20stack%20(Linux%2C%20Apache%2C%20MySQL%2C%20PHP-Perl-Python).md)
    - The role of each component in the stack
    - Setting up the LAMP environment
 

@@ -1,0 +1,219 @@
+### **Node.js - Utility Modules**
+
+Node.js also provides several **utility modules** that offer helpful functionalities to make development easier. These utility modules simplify common tasks like manipulating strings, formatting dates, managing the environment, and more. Some utility modules are built into Node.js, while others are third-party libraries available through npm.
+
+Here are some commonly used utility modules in Node.js:
+
+---
+
+### **1. `util` Module**
+
+The `util` module provides various utility functions that help with debugging, formatting, and working with objects. Some commonly used functions in this module include:
+
+- **`util.format()`**: Formats strings similar to `printf` in C, allowing you to interpolate variables into strings.
+- **`util.inspect()`**: Returns a string representation of an object, helpful for debugging.
+- **`util.promisify()`**: Converts callback-based functions into promise-based functions.
+
+#### Example: Using `util.format()` and `util.promisify()`:
+
+```javascript
+const util = require('util');
+
+// Formatting a string
+const name = 'Alice';
+const greeting = util.format('Hello, %s!', name);
+console.log(greeting); // Outputs: Hello, Alice!
+
+// Promisifying a callback-based function
+const fs = require('fs');
+const readFile = util.promisify(fs.readFile);
+
+readFile('example.txt', 'utf8')
+  .then(data => console.log(data))
+  .catch(err => console.error(err));
+```
+
+---
+
+### **2. `assert` Module**
+
+The `assert` module provides a set of assertion functions for testing and verifying conditions in your code. It is primarily used for debugging purposes and in unit testing.
+
+#### Example: Using `assert` to validate conditions:
+
+```javascript
+const assert = require('assert');
+
+// Validate if the values are equal
+assert.strictEqual(2 + 2, 4);
+
+// Validate if an object is true
+assert.ok('Hello');
+```
+
+Common assertion methods include:
+- **`assert.strictEqual()`**: Checks if two values are strictly equal.
+- **`assert.ok()`**: Checks if the value is truthy.
+
+---
+
+### **3. `console` Module**
+
+The `console` module provides simple debugging and logging functionalities. It has several methods to print messages to the console, including `log`, `warn`, and `error`.
+
+#### Example: Using `console` for logging:
+
+```javascript
+const console = require('console');
+
+console.log('This is a regular log message');
+console.warn('This is a warning message');
+console.error('This is an error message');
+```
+
+In addition to these, you can use methods like:
+- **`console.time()`** and **`console.timeEnd()`**: Used to measure the time taken for operations.
+- **`console.table()`**: Displays tabular data in a formatted table.
+
+---
+
+### **4. `timers` Module**
+
+The `timers` module offers functions to schedule tasks with various timing controls, such as `setTimeout()`, `setInterval()`, and `setImmediate()`. These are useful for creating delays, recurring tasks, or immediate actions.
+
+#### Example: Using `setTimeout()` and `setInterval()`:
+
+```javascript
+// setTimeout example
+setTimeout(() => {
+  console.log('This will run after 2 seconds');
+}, 2000);
+
+// setInterval example
+let count = 0;
+const interval = setInterval(() => {
+  console.log(`This will run every second: ${++count}`);
+  if (count === 5) {
+    clearInterval(interval);  // Stop the interval after 5 iterations
+  }
+}, 1000);
+```
+
+---
+
+### **5. `domain` Module (Deprecated)**
+
+The `domain` module was used to handle and group error handling in asynchronous code. It provided a way to manage exceptions thrown in multiple callbacks and events within a particular domain. However, this module is now deprecated in favor of using async/await and try/catch.
+
+#### Example (Deprecated):
+
+```javascript
+const domain = require('domain');
+const myDomain = domain.create();
+
+myDomain.on('error', (err) => {
+  console.log('Caught error:', err);
+});
+
+myDomain.run(() => {
+  // Simulate an error
+  setTimeout(() => {
+    throw new Error('Something went wrong!');
+  }, 1000);
+});
+```
+
+**Note**: The use of `domain` is no longer recommended in modern applications. Consider using async/await and proper error handling instead.
+
+---
+
+### **6. `string_decoder` Module**
+
+The `string_decoder` module is used to decode streams of binary data into strings. It is useful when you're dealing with streams that involve different encodings, such as UTF-8, and need to convert them back into readable strings.
+
+#### Example: Using `StringDecoder` to decode a stream:
+
+```javascript
+const { StringDecoder } = require('string_decoder');
+const decoder = new StringDecoder('utf8');
+
+const buffer = Buffer.from([0xe2, 0x82, 0xac]);
+const decodedString = decoder.write(buffer);
+console.log(decodedString);  // Outputs: €
+```
+
+---
+
+### **7. `process` Module**
+
+The `process` module provides information about the current Node.js process. It allows you to interact with the environment, handle command-line arguments, and control process behavior.
+
+- **`process.argv`**: Command-line arguments passed to the script.
+- **`process.env`**: Environment variables available to the process.
+
+#### Example: Using `process.argv`:
+
+```javascript
+// Run the script with arguments: node app.js arg1 arg2
+console.log('Arguments:', process.argv);
+```
+
+---
+
+### **8. `buffer` Module**
+
+The `buffer` module allows working with binary data in Node.js. It is used to handle raw binary data outside the scope of strings, especially when dealing with I/O operations, file handling, and network protocols.
+
+#### Example: Using `Buffer` to create and manipulate binary data:
+
+```javascript
+const buf = Buffer.from('Hello, World!', 'utf8');
+console.log(buf);  // Outputs: <Buffer 48 65 6c 6c 6f 2c 20 57 6f 72 6c 64 21>
+
+const decodedString = buf.toString('utf8');
+console.log(decodedString);  // Outputs: Hello, World!
+```
+
+---
+
+### **9. `vm` Module**
+
+The `vm` module provides an API for compiling and running code within a virtual machine (VM). This allows you to execute JavaScript code dynamically in a controlled environment.
+
+#### Example: Using `vm` to run code in a sandbox:
+
+```javascript
+const vm = require('vm');
+
+const code = '2 + 2';
+const result = vm.runInNewContext(code);
+console.log(result);  // Outputs: 4
+```
+
+---
+
+### **10. `debugger` Module**
+
+The `debugger` module allows for debugging Node.js applications. You can use the built-in debugger or attach external debuggers to your application.
+
+- **`node inspect`**: Start the Node.js application in debug mode to inspect and step through code.
+
+#### Example: Start the debugger:
+
+```javascript
+// Start Node.js with debugger: node inspect app.js
+debugger;  // Code execution will pause here
+```
+
+---
+
+### **Conclusion**
+
+Node.js provides a rich set of **utility modules** that can simplify various tasks in your application, such as:
+
+- **Debugging** (`util`, `console`, `assert`)
+- **Handling timing** (`timers`)
+- **Working with streams** (`string_decoder`)
+- **Operating system and process management** (`process`, `os`)
+  
+These utility modules enhance the productivity and maintainability of Node.js applications, allowing you to handle complex tasks with ease.

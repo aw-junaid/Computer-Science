@@ -4,7 +4,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/aw-junaid/computer-science)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aw-junaid/computer-science)
 
-
 # Connect With Me:
 
 <div align="left">

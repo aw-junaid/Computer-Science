@@ -1,5 +1,4 @@
 Getting started in cybersecurity can feel daunting, but with a structured approach, it becomes manageable. Here's a guide to help you begin your journey:
-
 ---
 
 ### 1. **Understand the Basics**

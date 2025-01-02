@@ -1,6 +1,7 @@
 Getting started in cybersecurity can feel daunting, but with a structured approach, it becomes manageable. Here's a guide to help you begin your journey:
 ---
 
+
 > Before get into cyber security, ethical hacking or want to become a nerd hacker you must know **Basic of Computer and Networking**:
 > 1. Commponets (Ram, CPU and Storage devices)
 > 2. Architecture ([How Ram works](https://www.techtarget.com/searchstorage/definition/RAM-random-access-memory), How data stores in SSD, [**Signal Processing**](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit), [**ARM**](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) and [How CPU proccess Data](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization?tab=readme-ov-file))

@@ -68,7 +68,7 @@ Course content outline for learning **Object-Oriented Programming (OOP) in Ruby*
 
 ### **9. Practical OOP Design**
 - [Principles of good OOP design](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/ruby%20oops%20course%20content/course/Principles%20of%20good%20OOP%20design.md)
-  - DRY (Don't Repeat Yourself)
+  - [DRY (Don't Repeat Yourself)](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/ruby%20oops%20course%20content/course/DRY%20(Don't%20Repeat%20Yourself).md)
   - [SOLID principles](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/ruby%20oops%20course%20content/course/SOLID%20principles.md)
 - [Designing classes and their relationships](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/ruby%20oops%20course%20content/course/Designing%20classes%20and%20their%20relationships.md)
 - [Composition vs. inheritance](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/ruby%20oops%20course%20content/course/Composition%20vs.%20inheritance.md)

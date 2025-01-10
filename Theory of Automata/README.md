@@ -5,22 +5,22 @@ The **Theory of Automata** course is a foundational subject in computer science,
 ---
 
 ### **1. Introduction to Automata**
-- Definition and significance of automata theory in computer science.
-- Applications of automata in real-world problems.
-- Basic terminologies: symbols, alphabets, strings, and languages.
+- [Definition and significance of automata theory in computer science.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20significance%20of%20automata%20theory%20in%20computer%20science.md)
+- [Applications of automata in real-world problems.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Applications%20of%20automata%20in%20real-world%20problems.md)
+- [Basic terminologies: symbols, alphabets, strings, and languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Basic%20terminologies%3A%20symbols%2C%20alphabets%2C%20strings%2C%20and%20languages.md)
 
 ---
 
 ### **2. Finite Automata (FA)**
-- **Deterministic Finite Automata (DFA):**
-  - Formal definition and structure.
-  - Construction examples.
-  - Transition tables and diagrams.
-  - Language recognition by DFA.
+- [**Deterministic Finite Automata (DFA):**](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Deterministic%20Finite%20Automata%20(DFA).md)
+  - [Formal definition and structure.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Formal%20definition%20and%20structure.md)
+  - [Construction examples.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Construction%20examples.md)
+  - [Transition tables and diagrams.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Transition%20tables%20and%20diagrams.md)
+  - [Language recognition by DFA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Language%20recognition%20by%20DFA.md)
 
 - **Non-Deterministic Finite Automata (NFA):**
-  - Definition and examples.
-  - Equivalence between DFA and NFA.
+  -[ Definition and examples.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20examples.md)
+  - [Equivalence between DFA and NFA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Equivalence%20between%20DFA%20and%20NFA.md)
   - Conversion of NFA to DFA.
 
 - **Finite Automata with ε-moves (ε-NFA):**

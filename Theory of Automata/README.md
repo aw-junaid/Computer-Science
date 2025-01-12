@@ -21,20 +21,20 @@ The **Theory of Automata** course is a foundational subject in computer science,
 - **Non-Deterministic Finite Automata (NFA):**
   -[ Definition and examples.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20examples.md)
   - [Equivalence between DFA and NFA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Equivalence%20between%20DFA%20and%20NFA.md)
-  - Conversion of NFA to DFA.
+  - [Conversion of NFA to DFA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Conversion%20of%20NFA%20to%20DFA.md)
 
 - **Finite Automata with ε-moves (ε-NFA):**
-  - Role of ε-moves.
-  - Conversion of ε-NFA to NFA and DFA.
+  - [Role of ε-moves.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Role%20of%20%CE%B5-moves.md)
+  - [Conversion of ε-NFA to NFA and DFA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Conversion%20of%20%CE%B5-NFA%20to%20NFA%20and%20DFA.md)
 
 ---
 
 ### **3. Regular Languages**
-- Definition and properties.
-- Regular operations: union, concatenation, and Kleene star.
-- Closure properties of regular languages.
+- [Definition and properties.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20properties.md)
+- [Regular operations: union, concatenation, and Kleene star.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Regular%20operations%3A%20union%2C%20concatenation%2C%20and%20Kleene%20star.md)
+- [Closure properties of regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Closure%20properties%20of%20regular%20languages.md)
 - Regular expressions (RE):
-  - Syntax and usage.
+  - [Syntax and usage.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Syntax%20and%20usage.md)
   - Equivalence between RE and finite automata.
 - Applications of regular languages (e.g., lexical analysis).
 

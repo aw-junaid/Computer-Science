@@ -35,14 +35,14 @@ The **Theory of Automata** course is a foundational subject in computer science,
 - [Closure properties of regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Closure%20properties%20of%20regular%20languages.md)
 - Regular expressions (RE):
   - [Syntax and usage.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Syntax%20and%20usage.md)
-  - Equivalence between RE and finite automata.
-- Applications of regular languages (e.g., lexical analysis).
+  - [Equivalence between RE and finite automata.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Equivalence%20between%20RE%20and%20finite%20automata.md)
+- [Applications of regular languages (e.g., lexical analysis).](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Applications%20of%20regular%20languages%20(e.g.%2C%20lexical%20analysis).md)
 
 ---
 
 ### **4. Non-Regular Languages**
-- The pumping lemma for regular languages.
-- Examples of non-regular languages.
+- [The pumping lemma for regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/pumping%20lemma.md)
+- [Examples of non-regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Examples%20of%20non-regular%20languages.md)
 - Decision properties for regular languages (e.g., membership, emptiness, equivalence).
 
 ---

@@ -43,13 +43,13 @@ The **Theory of Automata** course is a foundational subject in computer science,
 ### **4. Non-Regular Languages**
 - [The pumping lemma for regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/pumping%20lemma.md)
 - [Examples of non-regular languages.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Examples%20of%20non-regular%20languages.md)
-- Decision properties for regular languages (e.g., membership, emptiness, equivalence).
+- [Decision properties for regular languages (e.g., membership, emptiness, equivalence).](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Decision%20properties%20for%20regular%20languages%20(e.g.%2C%20membership%2C%20emptiness%2C%20equivalence).md)
 
 ---
 
 ### **5. Context-Free Grammars (CFG)**
-- Definition and components: variables, terminals, productions, and start symbol.
-- Derivations and parse trees.
+- [Definition and components: variables, terminals, productions, and start symbol.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20components%3A%20variables%2C%20terminals%2C%20productions%2C%20and%20start%20symbol.md)
+- [Derivations and parse trees.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Derivations%20and%20parse%20trees.md)
 - Leftmost and rightmost derivations.
 - Ambiguity in grammars.
 

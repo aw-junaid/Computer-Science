@@ -50,27 +50,27 @@ The **Theory of Automata** course is a foundational subject in computer science,
 ### **5. Context-Free Grammars (CFG)**
 - [Definition and components: variables, terminals, productions, and start symbol.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20components%3A%20variables%2C%20terminals%2C%20productions%2C%20and%20start%20symbol.md)
 - [Derivations and parse trees.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Derivations%20and%20parse%20trees.md)
-- Leftmost and rightmost derivations.
-- Ambiguity in grammars.
+- [Leftmost and rightmost derivations.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Leftmost%20and%20rightmost%20derivations.md)
+- [Ambiguity in grammars.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Ambiguity%20in%20grammars.md)
 
 ---
 
 ### **6. Context-Free Languages (CFL)**
-- Properties and examples of CFLs.
-- Closure properties of CFLs.
-- Pumping lemma for CFLs.
+- [Properties and examples of CFLs.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Properties%20and%20examples%20of%20CFLs.md)
+- [Closure properties of CFLs.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Closure%20properties%20of%20CFLs.md)
+- [Pumping lemma for CFLs.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Pumping%20lemma%20for%20CFLs.md)
 
 ---
 
 ### **7. Pushdown Automata (PDA)**
-- Formal definition and working of PDA.
-- Deterministic PDA (DPDA) vs Non-Deterministic PDA (NPDA).
-- Equivalence between PDA and CFG.
+- [Formal definition and working of PDA.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Formal%20definition%20and%20working%20of%20PDA.md)
+- [Deterministic PDA (DPDA) vs Non-Deterministic PDA (NPDA).](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Deterministic%20PDA%20(DPDA)%20vs%20Non-Deterministic%20PDA%20(NPDA).md)
+- [Equivalence between PDA and CFG.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Equivalence%20between%20PDA%20and%20CFG.md)
 
 ---
 
 ### **8. Turing Machines (TM)**
-- Definition and components of a Turing Machine.
+- [Definition and components of a Turing Machine.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20components%20of%20a%20Turing%20Machine.md)
 - The concept of computation with TM.
 - Variants of Turing Machines:
   - Multi-tape Turing Machines.

@@ -82,24 +82,24 @@ The **Theory of Automata** course is a foundational subject in computer science,
 ### **9. Decidability and Undecidability**
 - [Decision problems and decidability.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Decision%20problems%20and%20decidability.md)
 - [The Halting Problem and its implications.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/The%20Halting%20Problem%20and%20its%20implications.md)
-- Reducibility and its role in undecidability.
-- Rice's theorem.
+- [Reducibility and its role in undecidability.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Reducibility%20and%20its%20role%20in%20undecidability.md)
+- [Rice's theorem.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Rice's%20theorem.md)
 
 ---
 
 ### **10. Computational Complexity**
-- Introduction to time and space complexity.
-- Classes P, NP, and NP-complete problems.
-- Polynomial-time reductions.
-- Overview of complexity theory.
+- [Introduction to time and space complexity.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Introduction%20to%20time%20and%20space%20complexity.md)
+- [Classes P, NP, and NP-complete problems.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Classes%20P%2C%20NP%2C%20and%20NP-complete%20problems.md)
+- [Polynomial-time reductions.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Polynomial-time%20reductions.md)
+- [Overview of complexity theory.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Overview%20of%20complexity%20theory.md)
 
 ---
 
 ### **11. Advanced Topics (Optional/As Needed)**
 - Chomsky Hierarchy:
-  - Type-0, Type-1, Type-2, and Type-3 grammars.
-  - Relationships between language classes.
-- Applications in Compiler Design.
-- Applications in Cryptography and Verification.
+  - [Type-0, Type-1, Type-2, and Type-3 grammars.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Type-0%2C%20Type-1%2C%20Type-2%2C%20and%20Type-3%20grammars.md)
+  - [Relationships between language classes.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Relationships%20between%20language%20classes.md)
+- [Applications in Compiler Design.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Applications%20in%20Compiler%20Design.md)
+- [Applications in Cryptography and Verification.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Applications%20in%20Cryptography%20and%20Verification.md)
 
 ---

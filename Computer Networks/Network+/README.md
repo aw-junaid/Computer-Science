@@ -1,121 +1,119 @@
-Contents
-1.0 - Networking Concepts
-1
-1.1 - Introduction to IP
-1
-1.1 - Common Ports
-2
-1.2 - Understanding the OSI Model
-4
-1.3 - Introduction to Ethernet
-4
-1.3 - Network Switching Overview
-5
-1.3 - Broadcast Domains and Collision Domains
-5
-1.3 - Unicasts, Broadcasts, and Multicasts
-6
-1.3 - Protocol Data Units
-6
-1.3 - Network Segmentation
-7
-1.3 - Spanning Tree Protocol
-7
-1.3 - Switch Interface Properties
-8
-1.3 - Static and Dynamic Routing
-8
-1.3 - IGP and EGP
-9
-1.3 - Dynamic Routing Protocols
-9
-1.3 - IPv4 and IPv6 Addressing 10
-1.3 - Configuring IPv6 11
-1.3 - Prioritizing Traffic 11
-1.3 - Network Address Translation 12
-1.3 - Access Control Lists 12
-1.3 - Circuit Switching and Packet Switching 12
-1.3 - Software Defined Networking 13
-1.4 - Binary Math 13
-1.4 - IPv4 Addresses 14
-1.4 - Classful Subnetting and IPv4 Subnet Masks 14
-1.4 - IPv6 Subnet Masks 14
-1.4 - Calculating IPv4 Subnets and Hosts 15
-1.4 - Seven Second Subnetting 15
-1.4 - Assigning IPv4 Addresses 15
-1.4 - Assigning IPv6 Addresses 16
-1.5 - Network Topologies 17
-1.5 - Common Network Types 17
-1.5 - Internet of Things Topologies 18
-1.6 - 802.11 Wireless Standards 19
-1.6 - Cellular Network Standards 19
-1.6 - Wireless Network Technologies 20
-1.7 - Cloud Services and Delivery Models 21
-1.8 - An Overview of DNS 22
-1.8 - DNS Record Types 23
-1.8 - DHCP Addressing Overview 25
-1.8 - Configuring DHCP 25
-1.8 - An Overview of NTP 26
-2.0 - Infrastructure 27
-2.1 - Copper Cabling 27
-2.1 - Copper Connectors 28
-2.1 - Optical Fiber 28
-2.1 - Optical Fiber Connectors 29
-2.1 - Copper Termination Standards 29
-2.1 - Network Termination Points 30
-2.1 - Network Transceivers 31
-2.1 - Ethernet Standards 31
-2.2 - Networking Devices 32
-2.3 - Advanced Networking Devices 32
-2.4 - Virtual Networking 34
-2.4 - Network Storage 34
-2.5 - WAN Services 35
-2.5 - WAN Transmission Mediums 36
-2.5 - WAN Technologies 36
-2.5 - WAN Technologies 37
-2.5 - WAN Termination 37
-3.0 - Network Operations 38
-3.1 - Network Documentation 38
-3.2 - Availability Concepts 39
-3.2 - Power Management 39
-3.2 - Recovery Sites 40
-3.2 - Backup and Recovery 40
-3.3 - Process Monitoring 41
-3.3 - Event Management 42
-3.3 - Performance Metrics 42
-3.4 - Remote Access 43
-3.5 - Policies and Best Practices 44
-4.0 - Network Security 46
-4.1 - Physical Security 46
-4.2 - Authorization, Authentication, and Accounting 46
-4.2 - Multi-factor Authentication 47
-4.2 - Access Control 48
-4.3 - Wireless Encryption 49
-4.3 - Wireless Authentication and Security 49
-4.4 - Denial of Service 50
-4.4 - Social Engineering 51
-4.4 - Insider Threats 51
-4.4 - Logic Bombs 51
-4.4 - Rogue Access Points 52
-4.4 - Wardriving 52
-4.4 - Phishing 52
-4.4 - Ransomware 53
-4.4 - DNS Poisoning 53
-4.4 - Spoofing 54
-4.4 - Wireless Deauthentication 54
-4.4 - Brute Force Attacks 55
-4.4 - VLAN Hopping 55
-4.4 - Man-in-the-Middle 56
-4.4 - Vulnerabilities and Exploits 56
-4.5 - Device Hardening 56
-4.6 - Mitigation Techniques 57
-4.6 - Switch Port Protection 58
-4.6 - Network Segmentation 59
-5.0 - Network Troubleshooting and Tools 60
-5.1 - Network Troubleshooting Methodology 60
-5.2 - Hardware Tools 60
-5.2 - Software Tools 60
-5.2 - Command Line Tools 61
-5.3 - Wired Network Troubleshooting 61
-5.4 - Wireless Network Troubleshooting 64
-5.5 - Network Service Troubleshooting 65
+# Content:  
+---
+
+### 1.0 - Networking Concepts  
+1.1 - Introduction to IP  
+1.2 - Common Ports  
+1.3 - Understanding the OSI Model  
+1.4 - Introduction to Ethernet  
+1.5 - Network Switching Overview  
+1.6 - Broadcast Domains and Collision Domains  
+1.7 - Unicasts, Broadcasts, and Multicasts  
+1.8 - Protocol Data Units  
+1.9 - Network Segmentation  
+1.10 - Spanning Tree Protocol  
+1.11 - Switch Interface Properties  
+1.12 - Static and Dynamic Routing  
+1.13 - IGP and EGP  
+1.14 - Dynamic Routing Protocols  
+1.15 - IPv4 and IPv6 Addressing  
+1.16 - Configuring IPv6  
+1.17 - Prioritizing Traffic  
+1.18 - Network Address Translation  
+1.19 - Access Control Lists  
+1.20 - Circuit Switching and Packet Switching  
+1.21 - Software Defined Networking  
+
+### 2.0 - IP Addressing and Subnetting  
+2.1 - Binary Math  
+2.2 - IPv4 Addresses  
+2.3 - Classful Subnetting and IPv4 Subnet Masks  
+2.4 - IPv6 Subnet Masks  
+2.5 - Calculating IPv4 Subnets and Hosts  
+2.6 - Seven Second Subnetting  
+2.7 - Assigning IPv4 Addresses  
+2.8 - Assigning IPv6 Addresses  
+
+### 3.0 - Network Topologies and Standards  
+3.1 - Network Topologies  
+3.2 - Common Network Types  
+3.3 - Internet of Things Topologies  
+3.4 - 802.11 Wireless Standards  
+3.5 - Cellular Network Standards  
+3.6 - Wireless Network Technologies  
+
+### 4.0 - Cloud and Internet Services  
+4.1 - Cloud Services and Delivery Models  
+4.2 - An Overview of DNS  
+4.3 - DNS Record Types  
+4.4 - DHCP Addressing Overview  
+4.5 - Configuring DHCP  
+4.6 - An Overview of NTP  
+
+### 5.0 - Infrastructure  
+5.1 - Copper Cabling  
+5.2 - Copper Connectors  
+5.3 - Optical Fiber  
+5.4 - Optical Fiber Connectors  
+5.5 - Copper Termination Standards  
+5.6 - Network Termination Points  
+5.7 - Network Transceivers  
+5.8 - Ethernet Standards  
+5.9 - Networking Devices  
+5.10 - Advanced Networking Devices  
+5.11 - Virtual Networking  
+5.12 - Network Storage  
+5.13 - WAN Services  
+5.14 - WAN Transmission Mediums  
+5.15 - WAN Technologies  
+5.16 - WAN Termination  
+
+### 6.0 - Network Operations  
+6.1 - Network Documentation  
+6.2 - Availability Concepts  
+6.3 - Power Management  
+6.4 - Recovery Sites  
+6.5 - Backup and Recovery  
+6.6 - Process Monitoring  
+6.7 - Event Management  
+6.8 - Performance Metrics  
+6.9 - Remote Access  
+6.10 - Policies and Best Practices  
+
+### 7.0 - Network Security  
+7.1 - Physical Security  
+7.2 - Authorization, Authentication, and Accounting  
+7.3 - Multi-factor Authentication  
+7.4 - Access Control  
+7.5 - Wireless Encryption  
+7.6 - Wireless Authentication and Security  
+7.7 - Denial of Service  
+7.8 - Social Engineering  
+7.9 - Insider Threats  
+7.10 - Logic Bombs  
+7.11 - Rogue Access Points  
+7.12 - Wardriving  
+7.13 - Phishing  
+7.14 - Ransomware  
+7.15 - DNS Poisoning  
+7.16 - Spoofing  
+7.17 - Wireless Deauthentication  
+7.18 - Brute Force Attacks  
+7.19 - VLAN Hopping  
+7.20 - Man-in-the-Middle  
+7.21 - Vulnerabilities and Exploits  
+7.22 - Device Hardening  
+7.23 - Mitigation Techniques  
+7.24 - Switch Port Protection  
+7.25 - Network Segmentation  
+
+### 8.0 - Network Troubleshooting and Tools  
+8.1 - Network Troubleshooting Methodology  
+8.2 - Hardware Tools  
+8.3 - Software Tools  
+8.4 - Command Line Tools  
+8.5 - Wired Network Troubleshooting  
+8.6 - Wireless Network Troubleshooting  
+8.7 - Network Service Troubleshooting  
+
+--- 

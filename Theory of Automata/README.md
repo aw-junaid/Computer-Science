@@ -71,9 +71,9 @@ The **Theory of Automata** course is a foundational subject in computer science,
 
 ### **8. Turing Machines (TM)**
 - [Definition and components of a Turing Machine.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Definition%20and%20components%20of%20a%20Turing%20Machine.md)
-- The concept of computation with TM.
+- [The concept of computation with TM.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/The%20concept%20of%20computation%20with%20TM.md)
 - Variants of Turing Machines:
-  - Multi-tape Turing Machines.
+  - [Multi-tape Turing Machines.](https://github.com/aw-junaid/Computer-Science/blob/main/Theory%20of%20Automata/theory%20of%20automata/course/Multi-tape%20Turing%20Machines.md)
   - Non-deterministic Turing Machines.
   - Universal Turing Machine.
 

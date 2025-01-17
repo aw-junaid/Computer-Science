@@ -2,7 +2,7 @@
 ---
 
 ### 1.0 - Networking Concepts  
-1.1 - Introduction to IP  
+1.1 - [Introduction to IP](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Introduction%20to%20IP.md)  
 1.2 - Common Ports  
 1.3 - Understanding the OSI Model  
 1.4 - Introduction to Ethernet  

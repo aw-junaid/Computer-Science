@@ -26,9 +26,9 @@ To calculate the number of subnets, you need to know how many bits have been bor
 
 The formula to calculate the number of subnets is:
 
-\[
+$\[
 \text{Number of Subnets} = 2^n
-\]
+\]$
 
 Where **n** is the number of bits borrowed from the host portion.
 
@@ -41,9 +41,9 @@ Given the IP address `192.168.10.0` and subnet mask `255.255.255.192` (which is 
   
 Now, we can calculate the number of subnets:
 
-\[
+$\[
 \text{Number of Subnets} = 2^2 = 4
-\]
+\]$
 
 So, with a `/26` subnet mask, we can create **4 subnets**.
 
@@ -55,9 +55,9 @@ To calculate the number of hosts per subnet, we use the number of bits available
 
 The formula to calculate the number of hosts is:
 
-\[
+$\[
 \text{Number of Hosts} = 2^h - 2
-\]
+\]$
 
 Where **h** is the number of bits left for the host portion. The subtraction of 2 accounts for the **network address** (all 0s) and the **broadcast address** (all 1s) which cannot be assigned to hosts.
 
@@ -69,9 +69,9 @@ Let’s continue with the `/26` subnet mask:
   
 Now, we can calculate the number of hosts per subnet:
 
-\[
+$\[
 \text{Number of Hosts} = 2^6 - 2 = 64 - 2 = 62
-\]
+\]$
 
 So, each `/26` subnet can have **62 hosts**.
 
@@ -90,9 +90,9 @@ We borrowed **3 bits** from the host portion (`27 - 24 = 3`).
 
 Using the formula for subnets:
 
-\[
+$\[
 \text{Number of Subnets} = 2^3 = 8
-\]
+\]$
 
 So, we can create **8 subnets** with a `/27` subnet mask.
 
@@ -100,9 +100,9 @@ So, we can create **8 subnets** with a `/27` subnet mask.
 
 Using the formula for hosts:
 
-\[
+$\[
 \text{Number of Hosts} = 2^5 - 2 = 32 - 2 = 30
-\]
+\]$
 
 So, each `/27` subnet can have **30 hosts**.
 

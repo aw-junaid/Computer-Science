@@ -60,60 +60,60 @@
 5.7 - [Network Transceivers](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Transceivers.md)  
 5.8 - [Ethernet Standards](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Ethernet%20Standards.md)  
 5.9 - [Networking Devices](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Networking%20Devices.md)  
-5.10 - Advanced Networking Devices  
-5.11 - Virtual Networking  
-5.12 - Network Storage  
-5.13 - WAN Services  
-5.14 - WAN Transmission Mediums  
-5.15 - WAN Technologies  
-5.16 - WAN Termination  
+5.10 - [Advanced Networking Devices](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Advanced%20Networking%20Devices.md)  
+5.11 - [Virtual Networking](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Virtual%20Networking.md)  
+5.12 - [Network Storage](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Storage.md)  
+5.13 - [WAN Services](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/WAN%20Services.md)  
+5.14 - [WAN Transmission Mediums](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/WAN%20Transmission%20Mediums.md)  
+5.15 - [WAN Technologies](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/WAN%20Technologies.md)  
+5.16 - [WAN Termination](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/WAN%20Termination.md)  
 
 ### 6.0 - Network Operations  
-6.1 - Network Documentation  
-6.2 - Availability Concepts  
-6.3 - Power Management  
-6.4 - Recovery Sites  
-6.5 - Backup and Recovery  
-6.6 - Process Monitoring  
-6.7 - Event Management  
-6.8 - Performance Metrics  
-6.9 - Remote Access  
-6.10 - Policies and Best Practices  
+6.1 - [Network Documentation](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Documentation.md)  
+6.2 - [Availability Concepts](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Availability%20Concepts.md)  
+6.3 - [Power Management](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Power%20Management.md)  
+6.4 - [Recovery Sites](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Recovery%20Sites.md)  
+6.5 - [Backup and Recovery](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Backup%20and%20Recovery.md)  
+6.6 - [Process Monitoring](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Process%20Monitoring.md)  
+6.7 - [Event Management](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Event%20Management.md)  
+6.8 - [Performance Metrics](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Performance%20Metrics.md)  
+6.9 - [Remote Access](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Remote%20Access.md)  
+6.10 - [Policies and Best Practices](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Policies%20and%20Best%20Practices.md)  
 
 ### 7.0 - Network Security  
-7.1 - Physical Security  
-7.2 - Authorization, Authentication, and Accounting  
-7.3 - Multi-factor Authentication  
-7.4 - Access Control  
-7.5 - Wireless Encryption  
-7.6 - Wireless Authentication and Security  
-7.7 - Denial of Service  
-7.8 - Social Engineering  
-7.9 - Insider Threats  
-7.10 - Logic Bombs  
-7.11 - Rogue Access Points  
-7.12 - Wardriving  
-7.13 - Phishing  
-7.14 - Ransomware  
-7.15 - DNS Poisoning  
-7.16 - Spoofing  
-7.17 - Wireless Deauthentication  
-7.18 - Brute Force Attacks  
-7.19 - VLAN Hopping  
-7.20 - Man-in-the-Middle  
-7.21 - Vulnerabilities and Exploits  
-7.22 - Device Hardening  
-7.23 - Mitigation Techniques  
-7.24 - Switch Port Protection  
-7.25 - Network Segmentation  
+7.1 - [Physical Security](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Physical%20Security.md)  
+7.2 - [Authorization, Authentication, and Accounting](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Authorization%2C%20Authentication%2C%20and%20Accounting.md)  
+7.3 - [Multi-factor Authentication](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Multi-factor%20Authentication.md)  
+7.4 - [Access Control](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Access%20Control.md)  
+7.5 - [Wireless Encryption](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wireless%20Encryption.md)  
+7.6 - [Wireless Authentication and Security](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wireless%20Authentication%20and%20Security.md)  
+7.7 - [Denial of Service](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Denial%20of%20Service.md)  
+7.8 - [Social Engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Social%20Engineering.md)  
+7.9 - [Insider Threats](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Insider%20Threats.md)  
+7.10 - [Logic Bombs](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Logic%20Bombs.md)  
+7.11 - [Rogue Access Points](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Rogue%20Access%20Points.md)  
+7.12 - [Wardriving](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wardriving.md)  
+7.13 - [Phishing](https://github.com/aw-junaid/Computer-Science/[](url)blob/main/Computer%20Networks/Network%2B/Course/Phishing.md)  
+7.14 - [Ransomware](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Ransomware.md)  
+7.15 - [DNS Poisoning](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/DNS%20Poisoning.md)  
+7.16 - [Spoofing](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Spoofing.md)  
+7.17 - [Wireless Deauthentication](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wireless%20Deauthentication.md)  
+7.18 - [Brute Force Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Brute%20Force%20Attacks.md)  
+7.19 - [VLAN Hopping](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/VLAN%20Hopping.md)  
+7.20 - [Man-in-the-Middle](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Man-in-the-Middle.md)  
+7.21 - [Vulnerabilities and Exploits](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Vulnerabilities%20and%20Exploits.md)  
+7.22 - [Device Hardening](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Device%20Hardening.md)  
+7.23 - [Mitigation Techniques](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Mitigation%20Techniques.md)  
+7.24 - [Switch Port Protection](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Switch%20Port%20Protection.md)  
+7.25 - [Network Segmentation](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Segmentation1.md)  
 
 ### 8.0 - Network Troubleshooting and Tools  
-8.1 - Network Troubleshooting Methodology  
-8.2 - Hardware Tools  
-8.3 - Software Tools  
-8.4 - Command Line Tools  
-8.5 - Wired Network Troubleshooting  
-8.6 - Wireless Network Troubleshooting  
-8.7 - Network Service Troubleshooting  
+8.1 - [Network Troubleshooting Methodology](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Troubleshooting%20Methodology.md)  
+8.2 - [Hardware Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Hardware%20Tools.md)  
+8.3 - [Software Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Software%20Tools.md)  
+8.4 - [Command Line Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Command%20Line%20Tools.md)  
+8.5 - [Wired Network Troubleshooting](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wired%20Network%20Troubleshooting.md)  
+8.6 - [Wireless Network Troubleshooting](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Wireless%20Network%20Troubleshooting.md)  
+8.7 - [Network Service Troubleshooting](https://github.com/aw-junaid/Computer-Science/blob/main/Computer%20Networks/Network%2B/Course/Network%20Service%20Troubleshooting.md)  
 
 --- 

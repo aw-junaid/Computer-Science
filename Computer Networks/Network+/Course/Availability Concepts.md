@@ -10,9 +10,9 @@ Availability in networking refers to the ability of a system, device, or service
    - **Uptime**: The period during which a system or service is operational and accessible.
    - **Downtime**: The period when a system or service is unavailable due to failures, maintenance, or outages.
    - Availability is often expressed as a percentage, calculated using the formula:
-     \[
+     $\[
      \text{Availability (\%)} = \frac{\text{Uptime}}{\text{Uptime} + \text{Downtime}} \times 100
-     \]
+     \]$
 
 2. **Service Level Agreements (SLAs)**:
    - SLAs define the expected availability levels for services provided by vendors or ISPs.

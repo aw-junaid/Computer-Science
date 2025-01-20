@@ -16,64 +16,64 @@ critical information safe.
 1.10 - [Principles of Social Engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Principles%20of%20Social%20Engineering.md)  
 
 **1.2 - An Overview of Malware**  
-1.11 - Viruses and Worms  
-1.12 - Ransomware and Crypto-malware  
-1.13 - Trojans and RATs  
-1.14 - Rootkits  
-1.15 - Spyware  
-1.16 - Bots and Botnets  
-1.17 - Logic Bombs  
-1.18 - Password Attacks  
-1.19 - Physical Attacks  
-1.20 - Adversarial Artificial Intelligence  
-1.21 - Supply Chain Attacks  
-1.22 - Cloud-based vs. On-Premises Attacks  
-1.23 - Cryptographic Attacks  
+1.11 - [Viruses and Worms](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Viruses%20and%20Worms.md)  
+1.12 - [Ransomware and Crypto-malware](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Ransomware%20and%20Crypto-malware.md)  
+1.13 - [Trojans and RATs](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Trojans%20and%20RATs.md)  
+1.14 - [Rootkits](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Rootkits.md)  
+1.15 - [Spyware](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Spyware.md)  
+1.16 - [Bots and Botnets](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Bots%20and%20Botnets.md)  
+1.17 - [Logic Bombs](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Logic%20Bombs.md)  
+1.18 - [Password Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Password%20Attacks.md)  
+1.19 - [Physical Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Password%20Attacks.md)  
+1.20 - [Adversarial Artificial Intelligence](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Adversarial%20Artificial%20Intelligence.md)  
+1.21 - [Supply Chain Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Supply%20Chain%20Attacks.md)  
+1.22 - [Cloud-based vs. On-Premises Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cloud-based%20vs.%20On-Premises%20Attacks.md)  
+1.23 - [Cryptographic Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cryptographic%20Attacks.md)  
 
 **1.3 - Application Attacks**  
-1.24 - Privilege Escalation  
-1.25 - Cross-site Scripting  
-1.26 - Injection Attacks  
-1.27 - Buffer Overflows  
-1.28 - Replay Attacks  
-1.29 - Request Forgeries  
-1.30 - Driver Manipulation  
-1.31 - SSL Stripping  
-1.32 - Race Conditions  
-1.33 - Other Application Attacks  
+1.24 - [Privilege Escalation](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Privilege%20Escalation.md)  
+1.25 - [Cross-site Scripting](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cross-site%20Scripting.md)  
+1.26 - [Injection Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Injection%20Attacks.md)  
+1.27 - [Buffer Overflows](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Buffer%20Overflows.md)  
+1.28 - [Replay Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Replay%20Attacks.md)  
+1.29 - [Request Forgeries](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Request%20Forgeries.md)  
+1.30 - [Driver Manipulation](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Driver%20Manipulation.md)  
+1.31 - [SSL Stripping](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/SSL%20Stripping.md)  
+1.32 - [Race Conditions](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Race%20Conditions.md)  
+1.33 - [Other Application Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Other%20Application%20Attacks.md)  
 
 **1.4 - Wireless and Network Attacks**  
-1.34 - Rogue Access Points and Evil Twins  
-1.35 - Bluejacking and Bluesnarfing  
-1.36 - Wireless Disassociation Attacks  
-1.37 - Wireless Jamming  
-1.38 - RFID and NFC Attacks  
-1.39 - Randomizing Cryptography  
-1.40 - On-Path Attacks  
-1.41 - MAC Flooding and Cloning  
-1.42 - DNS Attacks  
-1.43 - Denial of Service  
-1.44 - Malicious Scripts  
+1.34 - [Rogue Access Points and Evil Twins](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Rogue%20Access%20Points%20and%20Evil%20Twins.md)  
+1.35 - [Bluejacking and Bluesnarfing](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Bluejacking%20and%20Bluesnarfing.md)  
+1.36 - [Wireless Disassociation Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Wireless%20Disassociation%20Attacks.md)  
+1.37 - [Wireless Jamming](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Wireless%20Jamming.md)  
+1.38 - [RFID and NFC Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/RFID%20and%20NFC%20Attacks.md)  
+1.39 - [Randomizing Cryptography](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Randomizing%20Cryptography.md)  
+1.40 - [On-Path Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/On-Path%20Attacks.md)  
+1.41 - [MAC Flooding and Cloning](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/MAC%20Flooding%20and%20Cloning.md)  
+1.42 - [DNS Attacks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/DNS%20Attacks.md)  
+1.43 - [Denial of Service](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Denial%20of%20Service.md)  
+1.44 - [Malicious Scripts](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Malicious%20Scripts.md)  
 
 **1.5 - Threat Actors and Intelligence**  
-1.45 - Threat Actors  
-1.46 - Attack Vectors  
-1.47 - Threat Intelligence  
-1.48 - Threat Research  
+1.45 - [Threat Actors](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Threat%20Actors.md)  
+1.46 - [Attack Vectors](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Attack%20Vectors.md)  
+1.47 - [Threat Intelligence](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Threat%20Intelligence.md)  
+1.48 - [Threat Research](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Threat%20Research.md)  
 
 **1.6 - Vulnerabilities**  
-1.49 - Vulnerability Types  
-1.50 - Third-party Risks  
-1.51 - Vulnerability Impacts  
+1.49 - [Vulnerability Types](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Vulnerability%20Types.md)  
+1.50 - [Third-party Risks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Third-party%20Risks.md)  
+1.51 - [Vulnerability Impacts](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Vulnerability%20Impacts.md)  
 
 **1.7 - Threat Management**  
-1.52 - Threat Hunting  
-1.53 - Vulnerability Scans  
-1.54 - Security Information and Event Management  
+1.52 - [Threat Hunting](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Threat%20Hunting.md)  
+1.53 - [Vulnerability Scans](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Vulnerability%20Scans.md)  
+1.54 - [Security Information and Event Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Information%20and%20Event%20Management.md)  
 
 **1.8 - Penetration Testing**  
-1.55 - Reconnaissance  
-1.56 - Security Teams  
+1.55 - [Reconnaissance](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Reconnaissance.md)  
+1.56 - [Security Teams](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Teams.md)  
 
 ---
 

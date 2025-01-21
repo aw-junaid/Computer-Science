@@ -78,7 +78,7 @@ critical information safe.
 ---
 
 **2.0 - Architecture and Design**  
-2.1 - Configuration Management  
+2.1 - [Configuration Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Configuration%20Management.md)  
 2.2 - Protecting Data  
 2.3 - Data Loss Prevention  
 2.4 - Managing Security  

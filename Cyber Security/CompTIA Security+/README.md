@@ -79,31 +79,31 @@ critical information safe.
 
 **2.0 - Architecture and Design**  
 2.1 - [Configuration Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Configuration%20Management.md)  
-2.2 - Protecting Data  
-2.3 - Data Loss Prevention  
-2.4 - Managing Security  
-2.5 - Site Resiliency  
-2.6 - Honeypots and Deception  
+2.2 - [Protecting Data](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Protecting%20Data.md)  
+2.3 - [Data Loss Prevention](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Data%20Loss%20Prevention.md)  
+2.4 - [Managing Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Managing%20Security.md)  
+2.5 - [Site Resiliency](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Site%20Resiliency.md)  
+2.6 - [Honeypots and Deception](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Honeypots%20and%20Deception.md)  
 
 **2.2 - Cloud and Virtualization Security**  
-2.7 - Cloud Models  
-2.8 - Edge and Fog Computing  
-2.9 - Designing the Cloud  
-2.10 - Infrastructure as Code  
-2.11 - Virtualization Security  
+2.7 - [Cloud Models](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cloud%20Models.md)  
+2.8 - [Edge and Fog Computing](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Edge%20and%20Fog%20Computing.md)  
+2.9 - [Designing the Cloud](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Designing%20the%20Cloud.md)  
+2.10 - [Infrastructure as Code](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Infrastructure%20as%20Code.md)  
+2.11 - [Virtualization Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Virtualization%20Security.md)  
 
 **2.3 - Secure Deployments**  
-2.12 - Provisioning and Deprovisioning  
-2.13 - Secure Coding Techniques  
-2.14 - Software Diversity  
-2.15 - Automation and Scripting  
+2.12 - [Provisioning and Deprovisioning](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Provisioning%20and%20Deprovisioning.md)  
+2.13 - [Secure Coding Techniques](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Coding%20Techniques.md)  
+2.14 - [Software Diversity](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Software%20Diversity.md)  
+2.15 - [Automation and Scripting](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Automation%20and%20Scripting.md)  
 
 **2.4 - Authentication Methods**  
-2.16 - Biometrics  
-2.17 - Multi-factor Authentication  
+2.16 - [Biometrics](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Biometrics.md)  
+2.17 - [Multi-factor Authentication](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Multi-factor%20Authentication.md)  
 
 **2.5 - Redundancy and Backup**  
-2.18 - Disk Redundancy  
+2.18 - [Disk Redundancy](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Disk%20Redundancy.md)  
 2.19 - Network Redundancy  
 2.20 - Power Redundancy  
 2.21 - Replication  
@@ -235,5 +235,3 @@ critical information safe.
 5.13 - Data Roles and Responsibilities  
 
 --- 
-
-Let me know if you'd like any further modifications!

@@ -104,49 +104,49 @@ critical information safe.
 
 **2.5 - Redundancy and Backup**  
 2.18 - [Disk Redundancy](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Disk%20Redundancy.md)  
-2.19 - Network Redundancy  
-2.20 - Power Redundancy  
-2.21 - Replication  
-2.22 - Backup Types  
-2.23 - Resiliency  
+2.19 - [Network Redundancy](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Network%20Redundancy.md)  
+2.20 - [Power Redundancy](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Power%20Redundancy.md)  
+2.21 - [Replication](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Replication.md)  
+2.22 - [Backup Types](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Backup%20Types.md)  
+2.23 - [Resiliency](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Resiliency.md)  
 
 **2.6 - Embedded Systems**  
-2.24 - Embedded Systems Communication  
-2.25 - Embedded Systems Constraints  
+2.24 - [Embedded Systems Communication](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Embedded%20Systems%20Communication.md)  
+2.25 - [Embedded Systems Constraints](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Embedded%20Systems%20Constraints.md)  
 
 **2.7 - Physical Security Controls**  
-2.26 - Secure Areas  
-2.27 - Secure Data Destruction  
+2.26 - [Secure Areas](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Areas.md)  
+2.27 - [Secure Data Destruction](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Data%20Destruction.md)  
 
 **2.8 - Cryptography Concepts**  
-2.28 - Symmetric and Asymmetric Cryptography  
-2.29 - Hashing and Digital Signatures  
-2.30 - Cryptographic Keys  
-2.31 - Steganography  
-2.32 - Quantum Computing  
-2.33 - Stream and Block Ciphers  
-2.34 - Blockchain Technology  
-2.35 - Cryptography Use Cases  
-2.36 - Cryptography Limitations  
+2.28 - [Symmetric and Asymmetric Cryptography](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Symmetric%20and%20Asymmetric%20Cryptography.md)  
+2.29 - [Hashing and Digital Signatures](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Hashing%20and%20Digital%20Signatures.md)  
+2.30 - [Cryptographic Keys](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cryptographic%20Keys.md)  
+2.31 - [Steganography](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Steganography.md)  
+2.32 - [Quantum Computing](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Quantum%20Computing.md)  
+2.33 - [Stream and Block Ciphers](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Stream%20and%20Block%20Ciphers.md)  
+2.34 - [Blockchain Technology](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Blockchain%20Technology.md)  
+2.35 - [Cryptography Use Cases](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cryptography%20Use%20Cases.md)  
+2.36 - [Cryptography Limitations](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cryptography%20Limitations.md)  
 
 ---
 
 **3.0 - Implementation**  
-3.1 - Secure Protocols  
-3.2 - Endpoint Protection  
-3.3 - Boot Integrity  
-3.4 - Database Security  
-3.5 - Application Security  
-3.6 - Application Hardening  
+3.1 - [Secure Protocols](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Protocols.md)  
+3.2 - [Endpoint Protection](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Endpoint%20Protection.md)  
+3.3 - [Boot Integrity](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Boot%20Integrity.md)  
+3.4 - [Database Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Database%20Security.md)  
+3.5 - [Application Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Application%20Security.md)  
+3.6 - [Application Hardening](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Application%20Hardening.md)  
 
 **3.2 - Network Security**  
-3.7 - Load Balancing  
-3.8 - Network Segmentation  
-3.9 - Virtual Private Networks  
-3.10 - Port Security  
-3.11 - Secure Networking  
-3.12 - Firewalls  
-3.13 - Network Access Control  
+3.7 - [Load Balancing](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Load%20Balancing.md)  
+3.8 - [Network Segmentation](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Network%20Segmentation.md)  
+3.9 - [Virtual Private Networks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Virtual%20Private%20Networks.md)  
+3.10 - [Port Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Port%20Security.md)  
+3.11 - [Secure Networking](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Networking.md)  
+3.12 - [Firewalls](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/firewalls.md)  
+3.13 - [Network Access Control](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Network%20Access%20Control.md)  
 3.14 - Proxies  
 3.15 - Intrusion Prevention  
 3.16 - Other Network Appliances  

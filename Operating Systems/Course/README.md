@@ -3,7 +3,7 @@ Operating System
 
 ### **PART 1: BACKGROUND**
 #### **Chapter 1: Computer System Overview**
-1. **Basic Elements**
+1. [**Basic Elements**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Basic%20Elements.md)
 2. **Evolution of the Microprocessor**
 3. **Instruction Execution**
 4. **Interrupts**

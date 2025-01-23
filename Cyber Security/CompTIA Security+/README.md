@@ -189,7 +189,7 @@ critical information safe.
 
 **4.0 - Operations and Incident Response**  
 4.1 - [Reconnaissance Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Reconnaissance.md)  
-4.2 - File Manipulation Tools  
+4.2 - [File Manipulation Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/File%20Manipulation%20Tools%20in%20Linux.md)  
 4.3 - Shell and Script Environments  
 4.4 - Packet Tools  
 4.5 - Forensic Tools  

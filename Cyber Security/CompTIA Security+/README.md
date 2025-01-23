@@ -147,15 +147,15 @@ critical information safe.
 3.11 - [Secure Networking](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Networking.md)  
 3.12 - [Firewalls](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/firewalls.md)  
 3.13 - [Network Access Control](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Network%20Access%20Control.md)  
-3.14 - Proxies  
-3.15 - Intrusion Prevention  
-3.16 - Other Network Appliances  
+3.14 - [Proxies](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Proxies.md)  
+3.15 - [Intrusion Prevention](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/How%20to%20Set%20Up%20an%20IPS%20in%20Linux%3A%20A%20Step-by-Step%20Guide.md)  
+3.16 - [Other Network Appliances](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Other%20Network%20Appliances.md)  
 
 **3.3 - Wireless Security**  
-3.17 - Wireless Cryptography  
-3.18 - Wireless Authentication Methods  
-3.19 - Wireless Authentication Protocols  
-3.20 - Installing Wireless Networks  
+3.17 - [Wireless Cryptography](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Wireless%20Cryptography.md)  
+3.18 - [Wireless Authentication Methods](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Best%20Practices%20for%20Wireless%20Authentication%20in%20Modern%20Networks.md)  
+3.19 - [Wireless Authentication Protocols](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Wireless%20Authentication%20Protocols.md)  
+3.20 - [Installing Wireless Networks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Installing%20Wireless%20Networks.md)  
 
 **3.4 - Mobile Device Security**  
 3.21 - Mobile Networks  
@@ -188,7 +188,7 @@ critical information safe.
 ---
 
 **4.0 - Operations and Incident Response**  
-4.1 - Reconnaissance Tools  
+4.1 - [Reconnaissance Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Reconnaissance.md)  
 4.2 - File Manipulation Tools  
 4.3 - Shell and Script Environments  
 4.4 - Packet Tools  

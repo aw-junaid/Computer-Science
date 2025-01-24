@@ -158,32 +158,32 @@ critical information safe.
 3.20 - [Installing Wireless Networks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Installing%20Wireless%20Networks.md)  
 
 **3.4 - Mobile Device Security**  
-3.21 - Mobile Networks  
-3.22 - Mobile Device Management  
-3.23 - Mobile Device Security  
-3.24 - Mobile Device Enforcement  
-3.25 - Mobile Deployment Models  
+3.21 - [Mobile Networks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Mobile%20Networks.md)  
+3.22 - [Mobile Device Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Mobile%20Device%20Management.md)  
+3.23 - [Mobile Device Security](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Mobile%20Device%20Security.md)  
+3.24 - [Mobile Device Enforcement](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Mobile%20Device%20Enforcement.md)  
+3.25 - [Mobile Deployment Models](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Mobile%20Deployment%20Models.md)  
 
 **3.5 - Cloud Security Controls**  
-3.26 - Securing Cloud Storage  
-3.27 - Securing Cloud Networks  
-3.28 - Securing Compute Clouds  
-3.29 - Cloud Security Solutions  
+3.26 - [Securing Cloud Storage](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Securing%20Cloud%20Storage.md)  
+3.27 - [Securing Cloud Networks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Securing%20Cloud%20Networks.md)  
+3.28 - [Securing Compute Clouds](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Securing%20Compute%20Clouds.md)  
+3.29 - [Cloud Security Solutions](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Cloud%20Security%20Solutions.md)  
 
 **3.6 - Identity and Access Management**  
-3.30 - Identity Controls  
-3.31 - Account Types  
-3.32 - Account Policies  
-3.33 - Authentication Management  
-3.34 - PAP and CHAP  
-3.35 - Identity and Access Services  
-3.36 - Federated Identities  
-3.37 - Access Control  
+3.30 - [Identity Controls](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Identity%20Controls.md)  
+3.31 - [Account Types](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Account%20Types.md)  
+3.32 - [Account Policies](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Account%20Policies.md)  
+3.33 - [Authentication Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Authentication%20Management.md)  
+3.34 - [PAP and CHAP](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/PAP%20and%20CHAP.md)  
+3.35 - [Identity and Access Services](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Identity%20and%20Access%20Services.md)  
+3.36 - [Federated Identities](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Federated%20Identities.md)  
+3.37 - [Access Control](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Access%20Control.md)  
 
 **3.7 - Public Key Infrastructure**  
-3.38 - Certificates  
-3.39 - Certificate Formats  
-3.40 - Certificate Concepts  
+3.38 - [Certificates](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Certificates.md)  
+3.39 - [Certificate Formats](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Certificate%20Formats.md)  
+3.40 - [Certificate Concepts](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Certificate%20Concepts.md)  
 
 ---
 
@@ -191,8 +191,8 @@ critical information safe.
 4.1 - [Reconnaissance Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Reconnaissance.md)  
 4.2 - [File Manipulation Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/File%20Manipulation%20Tools%20in%20Linux.md)  
 4.3 - [Shell and Script Environments](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Shell%20Script.md)  
-4.4 - Packet Tools  
-4.5 - Forensic Tools  
+4.4 - [Packet Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Packet%20Tools.md)  
+4.5 - [Forensic Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Forensic%20Tools.md)  
 
 **4.2 - Incident Response Process**  
 4.6 - Incident Response Planning  

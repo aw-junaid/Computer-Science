@@ -195,43 +195,43 @@ critical information safe.
 4.5 - [Forensic Tools](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Forensic%20Tools.md)  
 
 **4.2 - Incident Response Process**  
-4.6 - Incident Response Planning  
-4.7 - Attack Frameworks  
+4.6 - [Incident Response Planning](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Incident%20Response%20Planning.md)  
+4.7 - [Attack Frameworks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Attack%20Frameworks.md)  
 
 **4.3 - Vulnerability Scan Output**  
-4.8 - SIEM Dashboards  
-4.9 - Log Files  
-4.10 - Log Management  
+4.8 - [SIEM Dashboards](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/SIEM%20Dashboard.md)  
+4.9 - [Log Files](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Log%20Files.md)  
+4.10 - [Log Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Log%20Management.md)  
 
 **4.4 - Endpoint Security Configuration**  
-4.11 - Security Configurations  
+4.11 - [Security Configurations](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Configurations.md)  
 
 **4.5 - Digital Forensics**  
-4.12 - Forensics Data Acquisition  
-4.13 - On-Premises vs. Cloud Forensics  
-4.14 - Managing Evidence  
+4.12 - [Forensics Data Acquisition](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Forensics%20Data%20Acquisition.md)  
+4.13 - [On-Premises vs. Cloud Forensics](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/On-Premises%20vs.%20Cloud%20Forensics.md)  
+4.14 - [Managing Evidence](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Managing%20Evidence.md)  
 
 ---
 
 **5.0 - Governance, Risk, and Compliance**  
-5.1 - Security Controls  
-5.2 - Security Regulations and Standards  
-5.3 - Security Frameworks  
-5.4 - Secure Configurations  
+5.1 - [Security Controls](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Controls.md)  
+5.2 - [Security Regulations and Standards](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Regulations%20and%20Standards.md)  
+5.3 - [Security Frameworks](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Security%20Frameworks.md)  
+5.4 - [Secure Configurations](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Secure%20Configurations.md)  
 
 **5.2 - Personnel Security**  
-5.5 - Third-party Risk Management  
-5.6 - Managing Data  
-5.7 - Credential Policies  
-5.8 - Organizational Policies  
+5.5 - [Third-party Risk Management](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Third-party%20Risk%20Management.md)  
+5.6 - [Managing Data](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Managing%20Data.md)  
+5.7 - [Credential Policies](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Credential%20Policies.md)  
+5.8 - [Organizational Policies](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Organizational%20Policies.md)  
 
 **5.3 - Risk Management Types**  
-5.9 - Risk Analysis  
-5.10 - Business Impact Analysis  
+5.9 - [Risk Analysis](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Risk%20Analysis.md)  
+5.10 - [Business Impact Analysis](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Risk%20Analysis.md)  
 
 **5.4 - Privacy and Data Breaches**  
-5.11 - Data Classifications  
-5.12 - Enhancing Privacy  
-5.13 - Data Roles and Responsibilities  
+5.11 - [Data Classifications](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Data%20Classifications.md)  
+5.12 - [Enhancing Privacy](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Enhancing%20Privacy.md)  
+5.13 - [Data Roles and Responsibilities](https://github.com/aw-junaid/Computer-Science/blob/main/Cyber%20Security/CompTIA%20Security%2B/Course/Data%20Roles%20and%20Responsibilities.md)  
 
 --- 

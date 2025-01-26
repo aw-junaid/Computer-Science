@@ -76,15 +76,15 @@ A Software Engineering course typically covers a wide range of topics designed t
    - [Presentation and documentation of the project](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Presentation%20and%20documentation%20of%20the%20project.md)
 
 ### Additional Topics (Optional)
-   - Human-Computer Interaction (HCI) and User Experience (UX) design
-   - Mobile and web application development
-   - Database design and management
-   - Big data and data engineering
-   - Legal and regulatory issues in software engineering
+   - [Human-Computer Interaction (HCI) and User Experience (UX) design](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Human-Computer%20Interaction%20(HCI)%20and%20User%20Experience%20(UX)%20design.md)
+   - [Mobile and web application development](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Mobile%20and%20web%20application%20development.md)
+   - [Database design and management](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Database%20design%20and%20management.md)
+   - [Big data and data engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Big%20data%20and%20data%20engineering.md)
+   - [Legal and regulatory issues in software engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Legal%20and%20regulatory%20issues%20in%20software%20engineering.md)
 
 ### Tools and Technologies
-   - Integrated Development Environments (IDEs) like Visual Studio, IntelliJ IDEA, Eclipse
-   - Version control systems like Git, SVN
-   - Project management tools like JIRA, Trello, Asana
-   - Testing tools like Selenium, JUnit, TestNG
-   - CI/CD tools like Jenkins, Travis CI, CircleCI
+   - [Integrated Development Environments (IDEs) like Visual Studio, IntelliJ IDEA, Eclipse](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Integrated%20Development%20Environments%20(IDEs)%20like%20Visual%20Studio%2C%20IntelliJ%20IDEA%2C%20Eclipse.md)
+   - [Version control systems like Git, SVN](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Version%20control%20systems%20like%20Git%2C%20SVN.md)
+   - [Project management tools like JIRA, Trello, Asana](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Project%20management%20tools%20like%20JIRA%2C%20Trello%2C%20Asana.md)
+   - [Testing tools like Selenium, JUnit, TestNG](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Testing%20tools%20like%20Selenium%2C%20JUnit%2C%20TestNG.md)
+   - [CI/CD tools like Jenkins, Travis CI, CircleCI](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/CI-CD%20tools%20like%20Jenkins%2C%20Travis%20CI%2C%20CircleCI.md)

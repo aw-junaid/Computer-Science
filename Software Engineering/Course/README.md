@@ -40,40 +40,40 @@ A Software Engineering course typically covers a wide range of topics designed t
    - [Configuration management](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Configuration%20management.md)
 
 ### 7. **Software Project Management**
-   - Project planning and estimation
-   - Risk management
-   - Team collaboration and communication
-   - Agile methodologies (Scrum, Kanban)
-   - Project management tools (e.g., JIRA, Trello)
+   - [Project planning and estimation](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Project%20planning%20and%20estimation.md)
+   - [Risk management](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Risk%20management.md)
+   - [Team collaboration and communication](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Team%20collaboration%20and%20communication.md)
+   - [Agile methodologies (Scrum, Kanban)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Agile%20methodologies%20(Scrum%2C%20Kanban).md)
+   - [Project management tools (e.g., JIRA, Trello)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Project%20management%20tools%20(e.g.%2C%20JIRA%2C%20Trello).md)
 
 ### 8. **Software Quality Assurance**
-   - Quality metrics and standards (e.g., ISO 9001, CMMI)
-   - Code reviews and inspections
-   - Continuous integration and continuous deployment (CI/CD)
-   - Software reliability and performance
+   - [Quality metrics and standards (e.g., ISO 9001, CMMI)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Quality%20metrics%20and%20standards%20(e.g.%2C%20ISO%209001%2C%20CMMI).md)
+   - [Code reviews and inspections](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Code%20reviews%20and%20inspections.md)
+   - [Continuous integration and continuous deployment (CI/CD)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Continuous%20integration%20and%20continuous%20deployment%20(CI-CD).md)
+   - [Software reliability and performance](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Software%20reliability%20and%20performance.md)
 
 ### 9. **Software Security**
-   - Security principles and best practices
-   - Threat modeling and risk assessment
-   - Secure coding practices
-   - Penetration testing and vulnerability assessment
+   - [Security principles and best practices](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Security%20principles%20and%20best%20practices.md)
+   - [Threat modeling and risk assessment](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Threat%20modeling%20and%20risk%20assessment.md)
+   - [Secure coding practices](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Secure%20coding%20practices.md)
+   - [Penetration testing and vulnerability assessment](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Penetration%20testing%20and%20vulnerability%20assessment.md)
 
 ### 10. **Emerging Trends and Technologies**
-   - Cloud computing and software as a service (SaaS)
-   - DevOps and Site Reliability Engineering (SRE)
-   - Artificial Intelligence and Machine Learning in software engineering
-   - Internet of Things (IoT) and embedded systems
-   - Blockchain and decentralized applications
+   - [Cloud computing and software as a service (SaaS)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Cloud%20computing%20and%20software%20as%20a%20service%20(SaaS).md)
+   - [DevOps and Site Reliability Engineering (SRE)](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/DevOps%20and%20Site%20Reliability%20Engineering%20(SRE).md)
+   - [Artificial Intelligence and Machine Learning in software engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Artificial%20Intelligence%20and%20Machine%20Learning%20in%20software%20engineering.md)
+   - [Internet of Things (IoT) and embedded systems](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Internet%20of%20Things%20(IoT)%20and%20embedded%20systems.md)
+   - [Blockchain and decentralized applications](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Blockchain%20and%20decentralized%20applications.md)
 
 ### 11. **Case Studies and Real-World Applications**
-   - Analysis of real-world software projects
-   - Lessons learned from software failures
-   - Industry best practices and standards
+   - [Analysis of real-world software projects](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Analysis%20of%20real-world%20software%20projects.md)
+   - [Lessons learned from software failures](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Lessons%20learned%20from%20software%20failures.md)
+   - [Industry best practices and standards](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Industry%20best%20practices%20and%20standards.md)
 
 ### 12. **Capstone Project**
-   - A comprehensive project that integrates all aspects of software engineering
-   - Team-based development of a software product
-   - Presentation and documentation of the project
+   - [A comprehensive project that integrates all aspects of software engineering](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/A%20comprehensive%20project%20that%20integrates%20all%20aspects%20of%20software%20engineering.md)
+   - [Team-based development of a software product](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Team-based%20development%20of%20a%20software%20product.md)
+   - [Presentation and documentation of the project](https://github.com/aw-junaid/Computer-Science/blob/main/Software%20Engineering/Course/Course/Presentation%20and%20documentation%20of%20the%20project.md)
 
 ### Additional Topics (Optional)
    - Human-Computer Interaction (HCI) and User Experience (UX) design

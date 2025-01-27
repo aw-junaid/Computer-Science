@@ -3,9 +3,9 @@ A MERN stack course typically covers the following topics, divided into modules 
 --
 
 ### **1. Introduction to MERN Stack**
-- Overview of MERN Stack (MongoDB, Express.js, React, Node.js)
-- Understanding Full-Stack Development
-- Setting Up the Development Environment
+- [Overview of MERN Stack (MongoDB, Express.js, React, Node.js)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Overview%20of%20MERN%20Stack%20(MongoDB%2C%20Express.js%2C%20React%2C%20Node.js).md)
+- [Understanding Full-Stack Development](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Understanding%20Full-Stack%20Development.md)
+- [Setting Up the Development Environment](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Setting%20Up%20the%20Development%20Environment.md)
   - Installing Node.js and npm
   - Setting up VS Code or any preferred IDE
   - Introduction to Git and Version Control
@@ -13,20 +13,20 @@ A MERN stack course typically covers the following topics, divided into modules 
 ---
 
 ### **2. HTML, CSS, and JavaScript Fundamentals**
-- Basics of HTML and Semantic Tags
-- CSS Fundamentals (Flexbox, Grid, Responsive Design)
-- JavaScript Basics (Variables, Functions, Loops, DOM Manipulation)
-- ES6+ Features (Arrow Functions, Destructuring, Promises, Async/Await)
+- [Basics of HTML and Semantic Tags](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Basics%20of%20HTML%20and%20Semantic%20Tags.md)
+- [CSS Fundamentals (Flexbox, Grid, Responsive Design)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/CSS%20Fundamentals%20(Flexbox%2C%20Grid%2C%20Responsive%20Design).md)
+- [JavaScript Basics (Variables, Functions, Loops, DOM Manipulation)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/JavaScript%20Basics%20(Variables%2C%20Functions%2C%20Loops%2C%20DOM%20Manipulation).md)
+- [ES6+ Features (Arrow Functions, Destructuring, Promises, Async/Await)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/ES6%2B%20Features%20(Arrow%20Functions%2C%20Destructuring%2C%20Promises%2C%20Async-Await).md)
 
 ---
 
 ### **3. Introduction to Node.js**
-- What is Node.js?
-- Node.js Architecture and Event Loop
-- Creating a Simple Server with Node.js
-- Working with npm (Node Package Manager)
-- File System Module and Streams
-- Debugging Node.js Applications
+- [What is Node.js?](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/What%20is%20Node.js%3F.md)
+- [Node.js Architecture and Event Loop](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Node.js%20Architecture%20and%20Event%20Loop.md)
+- [Creating a Simple Server with Node.js](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Creating%20a%20Simple%20Server%20with%20Node.js.md)
+- [Working with npm (Node Package Manager)](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Working%20with%20npm%20(Node%20Package%20Manager).md)
+- [File System Module and Streams](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/File%20System%20Module%20and%20Streams.md)
+- [Debugging Node.js Applications](https://github.com/aw-junaid/Computer-Science/blob/main/Web%20Technologies/MERN/Course/Debugging%20Node.js%20Applications.md)
 
 ---
 

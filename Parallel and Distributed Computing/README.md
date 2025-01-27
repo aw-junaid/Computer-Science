@@ -3,7 +3,7 @@
 ---
 
 ### **Module 1: Introduction to Parallel and Distributed Computing**
-- Definition and differences: Parallel vs. Distributed systems
+- [Definition and differences: Parallel vs. Distributed systems](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Definition%20and%20differences%3A%20Parallel%20vs.%20Distributed%20systems.md)
 - Historical context and motivations
 - Applications of parallel and distributed systems
 - Challenges in parallel and distributed computing (e.g., synchronization, communication)

@@ -2,7 +2,7 @@
 ---
 
 ### **1. Introduction to ADBMS**
-- Recap of Basic DBMS Concepts
+- [Recap of Basic DBMS Concepts](https://github.com/aw-junaid/Computer-Science/blob/main/Database%20Systems/Advanced%20Database%20Management%20System/Recap%20of%20Basic%20DBMS%20Concepts.md)
 - Role of Advanced Database Systems in Modern Applications
 - Types of Advanced Databases (e.g., Distributed, NoSQL, Cloud, Graph, and Temporal Databases)
 

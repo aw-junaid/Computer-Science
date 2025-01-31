@@ -15,24 +15,24 @@ Operating System
 #### **Chapter 2: Operating System Overview**
 1. [**Operating System Objectives and Functions**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Operating%20System%20Objectives%20and%20Functions.md)
 2. [**The Evolution of Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/The%20Evolution%20of%20Operating%20Systems.md)
-3. **Major Achievements**
-4. **Developments Leading to Modern Operating Systems**
-5. **Fault Tolerance**
-6. **OS Design Considerations for Multiprocessor and Multicore**
-7. **Microsoft Windows Overview**
-8. **Traditional UNIX Systems**
-9. **Modern UNIX Systems**
-10. **Linux**
-11. **Android**
+3. [**Major Achievements**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Major%20Achievements.md)
+4. [**Developments Leading to Modern Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Developments%20Leading%20to%20Modern%20Operating%20Systems.md)
+5. [**Fault Tolerance**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Fault%20Tolerance.md)
+6. [**OS Design Considerations for Multiprocessor and Multicore**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/OS%20Design%20Considerations%20for%20Multiprocessor%20and%20Multicore.md)
+7. [**Microsoft Windows Overview**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Microsoft%20Windows%20Overview.md)
+8. [**Traditional UNIX Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Traditional%20UNIX%20Systems.md)
+9. [**Modern UNIX Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Modern%20UNIX%20Systems.md)
+10. [**Linux**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Linux.md)
+11. [**Android**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Android.md)
 
 ---
 
 ### **PART 2: PROCESSES**
 #### **Chapter 3: Process Description and Control**
-1. **What is a Process?**
-2. **Process States**
-3. **Process Description**
-4. **Process Control**
+1. [**What is a Process?**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/What%20is%20a%20Process%3F.md)
+2. [**Process States**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20States.md)
+3. [**Process Description**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20Description.md)
+4. [**Process Control**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20Control.md)
 5. **Execution of the Operating System**
 6. **UNIX SVR4 Process Management**
 

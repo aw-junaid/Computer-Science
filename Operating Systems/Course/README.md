@@ -33,15 +33,15 @@ Operating System
 2. [**Process States**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20States.md)
 3. [**Process Description**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20Description.md)
 4. [**Process Control**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Process%20Control.md)
-5. **Execution of the Operating System**
-6. **UNIX SVR4 Process Management**
+5. [**Execution of the Operating System**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Execution%20of%20the%20Operating%20System.md)
+6. [**UNIX SVR4 Process Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/UNIX%20SVR4%20Process%20Management.md)
 
 
 #### **Chapter 4: Threads**
-1. **Processes and Threads**
-2. **Types of Threads**
-3. **Multicore and Multithreading**
-4. **Windows Process and Thread Management**
+1. [**Processes and Threads**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Processes%20and%20Threads.md)
+2. [**Types of Threads**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Types%20of%20Threads.md)
+3. [**Multicore and Multithreading**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Multicore%20and%20Multithreading.md)
+4. [**Windows Process and Thread Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Windows%20Process%20and%20Thread%20Management.md)
 5. **Solaris Thread and SMP Management**
 6. **Linux Process and Thread Management**
 7. **Android Process and Thread Management**

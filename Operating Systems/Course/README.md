@@ -9,12 +9,12 @@ Operating System
 4. [**Interrupts**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Interrupts.md)
 5. [**The Memory Hierarchy**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/The%20Memory%20Hierarchy.md)
 6. [**Cache Memory**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Cache%20Memory.md)
-7. **Direct Memory Access**
-8. **Multiprocessor and Multicore Organization**
+7. [**Direct Memory Access**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Direct%20Memory%20Access.md)
+8. [**Multiprocessor and Multicore Organization**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Multiprocessor%20and%20Multicore%20Organization.md)
 
 #### **Chapter 2: Operating System Overview**
-1. **Operating System Objectives and Functions**
-2. **The Evolution of Operating Systems**
+1. [**Operating System Objectives and Functions**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Operating%20System%20Objectives%20and%20Functions.md)
+2. [**The Evolution of Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/The%20Evolution%20of%20Operating%20Systems.md)
 3. **Major Achievements**
 4. **Developments Leading to Modern Operating Systems**
 5. **Fault Tolerance**

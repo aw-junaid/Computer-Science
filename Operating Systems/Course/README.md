@@ -42,8 +42,8 @@ Operating System
 2. [**Types of Threads**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Types%20of%20Threads.md)
 3. [**Multicore and Multithreading**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Multicore%20and%20Multithreading.md)
 4. [**Windows Process and Thread Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Windows%20Process%20and%20Thread%20Management.md)
-5. **Solaris Thread and SMP Management**
-6. **Linux Process and Thread Management**
+5. [**Solaris Thread and SMP Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Solaris%20Thread%20and%20SMP%20Management.md)
+6. [**Linux Process and Thread Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Linux%20Process%20and%20Thread%20Management.md)
 7. **Android Process and Thread Management**
 8. **Mac OS X Grand Central Dispatch**
 

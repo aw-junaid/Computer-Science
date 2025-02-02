@@ -121,41 +121,41 @@ Operating System
 
 ### **PART 6: EMBEDDED SYSTEMS**
 #### **Chapter 13: Embedded Operating Systems**
-1. **Embedded Systems**
-2. **Characteristics of Embedded Operating Systems**
-3. **Embedded Linux**
-4. **TinyOS**
+1. [**Embedded Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Embedded%20Systems.md)
+2. [**Characteristics of Embedded Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Characteristics%20of%20Embedded%20Operating%20Systems.md)
+3. [**Embedded Linux**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Embedded%20Linux.md)
+4. [**TinyOS**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/TinyOS.md)
 
 #### **Chapter 14: Virtual Machines**
-1. **Virtual Machine Concepts**
-2. **Hypervisors**
-3. **Container Virtualization**
-4. **Processor Issues**
-5. **Memory Management**
-6. **I/O Management**
-7. **VMware ESXi**
-8. **Microsoft Hyper-V and Xen Variants**
-9. **Java VM**
-10. **Linux VServer Virtual Machine Architecture**
+1. [**Virtual Machine Concepts**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Virtual%20Machine%20Concepts.md)
+2. [**Hypervisors**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Hypervisors.md)
+3. [**Container Virtualization**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Container%20Virtualization.md)
+4. [**Processor Issues**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Processor%20Issues.md)
+5. [**Memory Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Memory%20Management.md)
+6. [**I/O Management**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/I-O%20Management.md)
+7. [**VMware ESXi**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/VMware%20ESXi.md)
+8. [**Microsoft Hyper-V and Xen Variants**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Microsoft%20Hyper-V%20and%20Xen%20Variants.md)
+9. [**Java VM**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Java%20VM.md)
+10. [**Linux VServer Virtual Machine Architecture**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Linux%20VServer%20Virtual%20Machine%20Architecture.md)
 
 ---
 
 ### **Chapter 15: Operating System Security**
-1. **Intruders and Malicious Software**
-2. **Buffer Overflow**
-3. **Access Control**
-4. **UNIX Access Control**
-5. **Operating Systems Hardening**
-6. **Security Maintenance**
-7. **Windows Security**
+1. [**Intruders and Malicious Software**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Intruders%20and%20Malicious%20Software.md)
+2. [**Buffer Overflow**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Buffer%20Overflow.md)
+3. [**Access Control**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Access%20Control.md)
+4. [**UNIX Access Control**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/UNIX%20Access%20Control.md)
+5. [**Operating Systems Hardening**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Operating%20Systems%20Hardening.md)
+6. [**Security Maintenance**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Security%20Maintenance.md)
+7. [**Windows Security**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Windows%20Security.md)
 
 ---
 
 ### **Chapter 16: Cloud and IoT Operating Systems**
-1. **Cloud Computing**
-2. **Cloud Operating Systems**
-3. **The Internet of Things**
-4. **IoT Operating Systems**
+1. [**Cloud Computing**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Cloud%20Computing.md)
+2. [**Cloud Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/Cloud%20Operating%20Systems.md)
+3. [**The Internet of Things**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/The%20Internet%20of%20Things.md)
+4. [**IoT Operating Systems**](https://github.com/aw-junaid/Computer-Science/blob/main/Operating%20Systems/Course/1/IoT%20Operating%20Systems.md)
 
 ---
 

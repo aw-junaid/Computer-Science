@@ -50,61 +50,61 @@
 ---
 
 ### **Module 5: Distributed Algorithms**
-- Leader election
-- Mutual exclusion
-- Distributed consensus (e.g., Paxos, Raft)
-- Distributed snapshots and deadlock detection
-- Clock synchronization (e.g., Lamport timestamps, Vector clocks)
-
+- [Leader election](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Leader%20election.md)
+- [Mutual exclusion](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Mutual%20exclusion.md)
+- [Distributed consensus (e.g., Paxos, Raft)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Distributed%20consensus%20(e.g.%2C%20Paxos%2C%20Raft).md)
+- [Distributed snapshots and deadlock detection](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Distributed%20snapshots%20and%20deadlock%20detection.md)
+- [Clock synchronization (e.g., Lamport timestamps, Vector clocks)
+](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Clock%20synchronization%20(e.g.%2C%20Lamport%20timestamps%2C%20Vector%20clocks).md)
 ---
 
 ### **Module 6: Middleware and Frameworks**
-- Introduction to middleware (e.g., CORBA, Java RMI)
+- [Introduction to middleware (e.g., CORBA, Java RMI)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Introduction%20to%20middleware%20(e.g.%2C%20CORBA%2C%20Java%20RMI).md)
 - Distributed computing frameworks:
-  - Hadoop and MapReduce
-  - Apache Spark
-  - MPI for distributed systems
-- Distributed databases and transactions (e.g., NoSQL, CAP theorem)
-
+  - [Hadoop and MapReduce](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Hadoop%20and%20MapReduce.md)
+  - [Apache Spark](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Apache%20Spark.md)
+  - [MPI for distributed systems](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/MPI%20for%20distributed%20systems.md)
+- [Distributed databases and transactions (e.g., NoSQL, CAP theorem)
+](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Distributed%20databases%20and%20transactions%20(e.g.%2C%20NoSQL%2C%20CAP%20theorem).md)
 ---
 
 ### **Module 7: Parallel Programming and Tools**
 - Programming languages for parallelism:
-  - C/C++ with MPI
-  - OpenMP and CUDA
-  - Python (Dask, PySpark)
-- Profiling and debugging tools (e.g., gprof, TAU, Intel VTune)
+  - [C/C++ with MPI](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/C-C%2B%2B%20with%20MPI.md)
+  - [OpenMP and CUDA](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/OpenMP%20and%20CUDA.md)
+  - [Python (Dask, PySpark)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Python%20(Dask%2C%20PySpark).md)
+- [Profiling and debugging tools (e.g., gprof, TAU, Intel VTune)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Profiling%20and%20debugging%20tools%20(e.g.%2C%20gprof%2C%20TAU%2C%20Intel%20VTune).md)
 - Performance optimization techniques:
-  - Load balancing
-  - Cache coherence
-  - Communication minimization
-
+  - [Load balancing](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Load%20balancing.md)
+  - [Cache coherence](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Cache%20coherence.md)
+  - [Communication minimization
+](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Communication%20minimization.md)
 ---
 
 ### **Module 8: Cloud and Edge Computing**
 - Basics of cloud computing:
-  - Virtualization
-  - Containers (e.g., Docker, Kubernetes)
-  - Cloud platforms (AWS, Azure, GCP)
+  - [Virtualization](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Virtualization.md)
+  - [Containers (e.g., Docker, Kubernetes)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Containers%20(e.g.%2C%20Docker%2C%20Kubernetes).md)
+  - [Cloud platforms (AWS, Azure, GCP)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Cloud%20platforms%20(AWS%2C%20Azure%2C%20GCP).md)
 - Edge and fog computing:
-  - Concepts and use cases
-  - Real-time constraints in edge computing
+  - [Concepts and use cases](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Concepts%20and%20use%20cases.md)
+  - [Real-time constraints in edge computing](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Real-time%20constraints%20in%20edge%20computing.md)
 
 ---
 
 ### **Module 9: Real-World Applications**
-- Scientific computing (e.g., weather simulation, protein folding)
-- Big data analytics
-- Machine learning and AI (distributed training)
-- Blockchain technology
-- Internet of Things (IoT) systems
+- [Scientific computing (e.g., weather simulation, protein folding)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Scientific%20computing%20(e.g.%2C%20weather%20simulation%2C%20protein%20folding).md)
+- [Big data analytics](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Big%20data%20analytics.md)
+- [Machine learning and AI (distributed training)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Machine%20learning%20and%20AI%20(distributed%20training).md)
+- [Blockchain technology](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Blockchain%20technology.md)
+- [Internet of Things (IoT) systems](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Internet%20of%20Things%20(IoT)%20systems.md)
 
 ---
 
 ### **Module 10: Research Challenges and Emerging Trends**
-- Energy-efficient computing
-- Quantum parallelism and distributed quantum systems
-- Cybersecurity in distributed systems
-- Advances in high-performance computing (e.g., exascale systems)
+- [Energy-efficient computing](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Energy-efficient%20computing.md)
+- [Quantum parallelism and distributed quantum systems](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Quantum%20parallelism%20and%20distributed%20quantum%20systems.md)
+- [Cybersecurity in distributed systems](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Cybersecurity%20in%20distributed%20systems.md)
+- [Advances in high-performance computing (e.g., exascale systems)](https://github.com/aw-junaid/Computer-Science/blob/main/Parallel%20and%20Distributed%20Computing/Parallel%20and%20Distributed%20Computing/Advances%20in%20high-performance%20computing%20(e.g.%2C%20exascale%20systems).md)
 
 ---

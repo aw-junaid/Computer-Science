@@ -100,5 +100,3 @@ A structured course outline for "C for Object-Oriented Programming." Since C is 
    - [Demonstrating the working solution.](https://github.com/aw-junaid/Computer-Science/blob/main/Object%20Oriented%20Programming/C%20for%20Object-Oriented%20Programming/course/Demonstrating%20the%20working%20solution.md)  
 
 ---
-
-This curriculum gradually introduces OOP principles using C before transitioning to fully object-oriented languages, providing a robust understanding of underlying concepts.

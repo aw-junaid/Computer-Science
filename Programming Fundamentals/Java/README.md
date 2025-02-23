@@ -3,50 +3,49 @@
 ---
 
 ### **1. Introduction to Java**
-- What is Java?
-- History and features of Java
-- Java Virtual Machine (JVM) and bytecode
-- Setting up the Java Development Kit (JDK)
-- Writing your first Java program
-- Understanding the `main` method
-- Compiling and running Java programs
+- [What is Java?](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/What%20is%20Java%3F.md)
+- [History and features of Java](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/History%20and%20features%20of%20Java.md)
+- [Java Virtual Machine (JVM) and bytecode](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Java%20Virtual%20Machine%20(JVM)%20and%20bytecode.md)
+- [Setting up the Java Development Kit (JDK)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Setting%20up%20the%20Java%20Development%20Kit%20(JDK).md)
+- [Writing your first Java program](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Writing%20your%20first%20Java%20program.md)
+- [Understanding the `main` method](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Understanding%20the%20%60main%60%20method.md)
+- [Compiling and running Java programs](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Compiling%20and%20running%20Java%20programs.md)
 
 ---
 
 ### **2. Java Basics**
-- Data types (primitive and non-primitive)
-- Variables and constants
-- Operators (arithmetic, relational, logical, bitwise, etc.)
+- [Data types (primitive and non-primitive)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Data%20types%20(primitive%20and%20non-primitive).md)
+- [Variables and constants](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Variables%20and%20constants.md)
+- [Operators (arithmetic, relational, logical, bitwise, etc.)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Operators%20(arithmetic%2C%20relational%2C%20logical%2C%20bitwise%2C%20etc.).md)
 - Control flow statements:
-  - `if`, `else`, `else if`
-  - `switch` statements
-  - Loops (`for`, `while`, `do-while`)
+  - [`if`, `else`, `else if`](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/%60if%60%2C%20%60else%60%2C%20%60else%20if%60.md)
+  - [`switch` statements](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/switch%60%20statements.md)
+  - [Loops (`for`, `while`, `do-while`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Loops%20(%60for%60%2C%20%60while%60%2C%20%60do-while%60).md)
 - Arrays:
-  - Single-dimensional and multi-dimensional arrays
-  - Array manipulation and traversal
-
+  - [Single-dimensional and multi-dimensional arrays](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Single-dimensional%20and%20multi-dimensional%20arrays.md)
+  - [Array manipulation and traversal](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Array%20manipulation%20and%20traversal.md)
 ---
 
 ### **3. Object-Oriented Programming (OOP) Concepts**
-- Classes and objects
-- Constructors and destructors
-- Methods (defining, calling, and overloading)
-- Access modifiers (`public`, `private`, `protected`, `default`)
-- Encapsulation, inheritance, polymorphism, and abstraction
-- `this` and `super` keywords
-- Static and instance members
-- Packages and import statements
+- [Classes and objects](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Classes%20and%20objects.md)
+- [Constructors and destructors](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Constructors%20and%20destructors.md)
+- [Methods (defining, calling, and overloading)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Methods%20(defining%2C%20calling%2C%20and%20overloading).md)
+- [Access modifiers (`public`, `private`, `protected`, `default`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Access%20modifiers%20(%60public%60%2C%20%60private%60%2C%20%60protected%60%2C%20%60default%60).md)
+- [Encapsulation, inheritance, polymorphism, and abstraction](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Encapsulation%2C%20inheritance%2C%20polymorphism%2C%20and%20abstraction.md)
+- [`this` and `super` keywords](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/%60this%60%20and%20%60super%60%20keywords.md)
+- [Static and instance members](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Static%20and%20instance%20members.md)
+- [Packages and import statements](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Packages%20and%20import%20statements.md)
 
 ---
 
 ### **4. Advanced OOP Concepts**
-- Method overriding and runtime polymorphism
-- Abstract classes and interfaces
-- Inner classes (nested, local, anonymous, and static nested classes)
-- Enumerations (enums)
-- Generics and type parameters
+- [Method overriding and runtime polymorphism](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Method%20overriding%20and%20runtime%20polymorphism)
+- [Abstract classes and interfaces](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Abstract%20classes%20and%20interfaces.md)
+- [Inner classes (nested, local, anonymous, and static nested classes)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Inner%20classes%20(nested%2C%20local%2C%20anonymous%2C%20and%20static%20nested%20classes).md)
+- [Enumerations (enums)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Enumerations%20(enums).md)
+- [Generics and type parameters](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Generics%20and%20type%20parameters.md)
 - Exception handling:
-  - `try`, `catch`, `finally`
+  - [`try`, `catch`, `finally`](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/%60try%60%2C%20%60catch%60%2C%20%60finally%60.md)
   - Custom exceptions
   - Checked vs. unchecked exceptions
 

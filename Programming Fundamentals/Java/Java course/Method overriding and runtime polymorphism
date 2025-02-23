@@ -1,0 +1,241 @@
+**Method overriding** and **runtime polymorphism** are key concepts in Java that enable dynamic method dispatch and flexibility in object-oriented programming. Let’s explore these concepts in detail.
+
+---
+
+### **1. Method Overriding**
+Method overriding occurs when a subclass provides a specific implementation of a method that is already defined in its superclass. The overridden method in the subclass must have the same **name**, **return type**, and **parameter list** as the method in the superclass.
+
+#### **Rules for Method Overriding**:
+1. The method must have the same name and parameter list as the superclass method.
+2. The return type must be the same or a **subtype** (covariant return type).
+3. The access modifier cannot be more restrictive than the superclass method.
+4. The method cannot override a `final` or `static` method.
+5. Use the `@Override` annotation to explicitly indicate method overriding (recommended).
+
+#### **Example**:
+```java
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound.");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dog barks.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal myAnimal = new Dog(); // Upcasting
+        myAnimal.sound(); // Calls the overridden method in Dog
+    }
+}
+```
+**Output**:
+```
+Dog barks.
+```
+
+---
+
+### **2. Runtime Polymorphism**
+Runtime polymorphism (also called **dynamic method dispatch**) is the ability of a program to decide which method to call at runtime based on the object’s actual type, rather than the reference type. It is achieved through method overriding.
+
+#### **Key Points**:
+- The decision of which method to call is made at runtime.
+- The method to be executed is determined by the **object’s actual type**, not the reference type.
+- It allows a superclass reference to refer to a subclass object.
+
+#### **Example**:
+```java
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound.");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dog barks.");
+    }
+}
+
+class Cat extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Cat meows.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal myAnimal; // Superclass reference
+
+        myAnimal = new Dog(); // Refers to Dog object
+        myAnimal.sound(); // Calls Dog's sound()
+
+        myAnimal = new Cat(); // Refers to Cat object
+        myAnimal.sound(); // Calls Cat's sound()
+    }
+}
+```
+**Output**:
+```
+Dog barks.
+Cat meows.
+```
+
+---
+
+### **3. Why Use Method Overriding and Runtime Polymorphism?**
+1. **Code Reusability**: Subclasses can reuse and extend the behavior of superclass methods.
+2. **Flexibility**: A superclass reference can refer to any subclass object, allowing dynamic method calls.
+3. **Maintainability**: Changes in the superclass method automatically apply to all subclasses (unless overridden).
+
+---
+
+### **4. Key Concepts**
+
+#### **a. Upcasting**
+Upcasting is when a subclass object is assigned to a superclass reference. It allows runtime polymorphism.
+```java
+Animal myAnimal = new Dog(); // Upcasting
+```
+
+#### **b. Covariant Return Type**
+In Java 5+, a subclass can override a method with a return type that is a subclass of the superclass method’s return type.
+```java
+class Animal {
+    Animal getAnimal() {
+        return new Animal();
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    Dog getAnimal() { // Covariant return type
+        return new Dog();
+    }
+}
+```
+
+#### **c. `super` Keyword in Overriding**
+The `super` keyword can be used to call the superclass version of an overridden method.
+```java
+class Dog extends Animal {
+    @Override
+    void sound() {
+        super.sound(); // Call superclass method
+        System.out.println("Dog barks.");
+    }
+}
+```
+
+---
+
+### **5. Example Program**
+Here’s a complete example demonstrating method overriding and runtime polymorphism:
+
+```java
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound.");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dog barks.");
+    }
+}
+
+class Cat extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Cat meows.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal myAnimal; // Superclass reference
+
+        myAnimal = new Dog(); // Refers to Dog object
+        myAnimal.sound(); // Calls Dog's sound()
+
+        myAnimal = new Cat(); // Refers to Cat object
+        myAnimal.sound(); // Calls Cat's sound()
+    }
+}
+```
+**Output**:
+```
+Dog barks.
+Cat meows.
+```
+
+---
+
+### **6. Common Mistakes**
+1. **Overriding Static Methods**:
+   - Static methods cannot be overridden; they are hidden in the subclass.
+   - Example:
+     ```java
+     class Animal {
+         static void sound() {
+             System.out.println("Animal makes a sound.");
+         }
+     }
+
+     class Dog extends Animal {
+         static void sound() { // Hiding, not overriding
+             System.out.println("Dog barks.");
+         }
+     }
+     ```
+
+2. **Overriding with Different Return Types**:
+   - The return type must be the same or a subtype (covariant return type).
+   - Example:
+     ```java
+     class Animal {
+         Animal getAnimal() {
+             return new Animal();
+         }
+     }
+
+     class Dog extends Animal {
+         @Override
+         Dog getAnimal() { // Valid: Covariant return type
+             return new Dog();
+         }
+     }
+     ```
+
+3. **Overriding with More Restrictive Access**:
+   - The access modifier cannot be more restrictive than the superclass method.
+   - Example:
+     ```java
+     class Animal {
+         public void sound() {
+             System.out.println("Animal makes a sound.");
+         }
+     }
+
+     class Dog extends Animal {
+         @Override
+         private void sound() { // Error: Cannot reduce visibility
+             System.out.println("Dog barks.");
+         }
+     }
+     ```
+
+---
+
+### **Conclusion**
+Method overriding and runtime polymorphism are powerful features of Java that enable dynamic and flexible behavior in object-oriented programs. By understanding these concepts, you can design systems that are reusable, extensible, and maintainable. Whether you're building simple applications or complex frameworks, these principles are essential for effective Java programming. 

@@ -46,24 +46,24 @@
 - [Generics and type parameters](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Generics%20and%20type%20parameters.md)
 - Exception handling:
   - [`try`, `catch`, `finally`](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/%60try%60%2C%20%60catch%60%2C%20%60finally%60.md)
-  - Custom exceptions
-  - Checked vs. unchecked exceptions
+  - [Custom exceptions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Custom%20exceptions.md)
+  - [Checked vs. unchecked exceptions](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Checked%20vs.%20unchecked%20exceptions.md)
 
 ---
 
 ### **5. Java Collections Framework**
-- Overview of the Collections API
-- Lists (`ArrayList`, `LinkedList`)
-- Sets (`HashSet`, `TreeSet`)
-- Maps (`HashMap`, `TreeMap`)
-- Iterators and iterable interfaces
-- Sorting and searching collections
-- Lambda expressions and functional interfaces
+- [Overview of the Collections API](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Overview%20of%20the%20Collections%20API.md)
+- [Lists (`ArrayList`, `LinkedList`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Lists%20(%60ArrayList%60%2C%20%60LinkedList%60).md)
+- [Sets (`HashSet`, `TreeSet`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Sets%20(%60HashSet%60%2C%20%60TreeSet%60).md)
+- [Maps (`HashMap`, `TreeMap`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Maps%20(%60HashMap%60%2C%20%60TreeMap%60).md)
+- [Iterators and iterable interfaces](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Iterators%20and%20iterable%20interfaces.md)
+- [Sorting and searching collections](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Sorting%20and%20searching%20collections.md)
+- [Lambda expressions and functional interfaces](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Lambda%20expressions%20and%20functional%20interfaces.md)
 
 ---
 
 ### **6. Input/Output (I/O) and File Handling**
-- Streams (byte streams and character streams)
+- [Streams (byte streams and character streams)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Streams%20(byte%20streams%20and%20character%20streams).md)
 - Reading and writing files
 - Serialization and deserialization
 - Working with `File`, `FileReader`, `FileWriter`, `BufferedReader`, `BufferedWriter`, etc.

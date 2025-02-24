@@ -64,17 +64,17 @@
 
 ### **6. Input/Output (I/O) and File Handling**
 - [Streams (byte streams and character streams)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Streams%20(byte%20streams%20and%20character%20streams).md)
-- Reading and writing files
-- Serialization and deserialization
-- Working with `File`, `FileReader`, `FileWriter`, `BufferedReader`, `BufferedWriter`, etc.
-- Handling exceptions in I/O operations
+- [Reading and writing files](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Reading%20and%20writing%20files.md)
+- [Serialization and deserialization](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Serialization%20and%20deserialization.md)
+- [Working with `File`, `FileReader`, `FileWriter`, `BufferedReader`, `BufferedWriter`, etc.](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Working%20with%20%60File%60%2C%20%60FileReader%60%2C%20%60FileWriter%60%2C%20%60BufferedReader%60%2C%20%60BufferedWriter%60%2C%20etc.md)
+- [Handling exceptions in I/O operations](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Handling%20exceptions%20in%20IO%20operations.md)
 
 ---
 
 ### **7. Multithreading and Concurrency**
-- Introduction to threads
-- Creating threads (extending `Thread` class and implementing `Runnable`)
-- Thread lifecycle and states
+- [Introduction to threads](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Introduction%20to%20threads.md)
+- [Creating threads (extending `Thread` class and implementing `Runnable`)](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Creating%20threads%20(extending%20%60Thread%60%20class%20and%20implementing%20%60Runnable%60).md)
+- [Thread lifecycle and states](https://github.com/aw-junaid/Computer-Science/blob/main/Programming%20Fundamentals/Java/Java%20course/Thread%20lifecycle%20and%20states.md)
 - Synchronization and thread safety
 - `wait()`, `notify()`, and `notifyAll()` methods
 - Thread pools and executors

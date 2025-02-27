@@ -25,7 +25,9 @@
 </div>
 
   # 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/awjunaid) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/awjunaid)
+[![Patreon](https://img.shields.io/badge/patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/awjunaid) 
+[![Liberapay](https://img.shields.io/badge/liberapay-ffdd00?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/awjunaid/donate)
 
 **Original Repo:** [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 

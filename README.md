@@ -37,37 +37,37 @@
 **Original Repo:** [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## 📖 Index
-<ul>
-<li><a href="#when-you-get-stuck">When you get stuck</a></li>
-<li><a href="#magazines">Magazines</a></li>
-<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#general-coding-advice">General Coding advice</a></li>
-<li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#general-tools">General Tools</a></li>
-<li><a href="#interview-preparation">Interview Preparation</a></li>
-<li><a href="#documentaries">Documentaries</a></li>
-<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#learn-ai">Artificial Intelligence And Machine Learning</a></li>
-<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#everything-in-one-place">Everything in one place</a></li>
-<li><a href="#youtube-channels">YouTube Channels</a></li>
-<li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#watch-others-code">Watch others code</a></li>
-<li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#competitive-programming">Competitive programming</a></li>
-<li><a href="#computer-books">Computer Books</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#open-source-websites">Open Source Websites</a></li>
-
-</ul>
+- [❓ When you get stuck](#-when-you-get-stuck)
+- [📚 Magazines](#-magazines)
+- [👶 Coding practice for beginners](#-coding-practice-for-beginners)
+- [💰 CryptoCurrency](#-cryptocurrency)
+- [💡 For those who want to start a small project but can't find the ideas](#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas)
+- [🗣️ General Coding advice](#️-general-coding-advice)
+- [🎨 Coding Style](#-coding-style)
+- [🛠️ General Tools](#️-general-tools)
+- [🎤 Interview Preparation](#-interview-preparation)
+- [🎬 Documentaries](#-documentaries)
+- [🎓 MOOCs for learning something new](#-moocs-for-learning-something-new)
+- [🧑‍💻 Sites related to your preferred programming language (For me C++)](#-sites-related-to-your-preferred-programming-language-for-me-c)
+  - [Java](#java)
+  - [C++](#c)
+  - [Python](#python)
+  - [Rust](#rust)
+  - [General / Multi-Language](#general--multi-language)
+- [🤖 Learn AI](#-learn-ai)
+- [📢 Seminar, research writing, talks, etc](#-seminar-research-writing-talks-etc)
+- [📦 Everything in one place](#-everything-in-one-place)
+- [📺 YouTube Channels](#-youtube-channels)
+- [✍️ Good Articles](#️-good-articles)
+- [🔄 Building a Simple Compiler/Interpreter](#-building-a-simple-compilerinterpreter)
+- [👀 Watch others code](#-watch-others-code)
+- [🧠 What should a programmer know](#-what-should-a-programmer-know)
+- [⚔️ Competitive programming](#️-competitive-programming)
+- [📖 Computer Books](#-computer-books)
+- [💻 Online Compiler and Sharing Code snippets](#-online-compiler-and-sharing-code-snippets)
+- [📝 Blogs of Developers](#-blogs-of-developers)
+- [🧘‍♂️ When you get bored from CS related stuff](#️-when-you-get-bored-from-cs-related-stuff)
+- [🔓 Open Source Websites](#-open-source-websites)
 
 ## ❓ When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
@@ -337,7 +337,7 @@
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
--[Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
+- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/): Guide on  cracking tech interviews
 
 
 <div align="right">
@@ -385,15 +385,11 @@
 </div>
 
 ## 🧑‍💻 Sites related to your preferred programming language (For me C++)
+#### Java
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
-- [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
-- [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
-- [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
-- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
-- [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
 - [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
@@ -404,22 +400,32 @@
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
-- [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
-- [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/): The Java Memory Model
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals) : Understanding JVM Internals
 - [what-is-garbage-collection](https://downloads.plumbr.io/Plumbr%20Handbook%20Java%20Garbage%20Collection.pdf) : Demystify the garbage collection
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
-- [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
 
+#### C++
+- [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
+- [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
+- [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
+- [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
+- [Official Qt Documentation](https://doc.qt.io/) : Documentation for different Qt versions, languages, tools and platforms
+
+#### Python
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
+#### Rust
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
+#### General / Multi-Language
+- [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
+- [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -775,10 +781,8 @@
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
-- [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
+- [MLH Fellowship prgramme](https://fellowship.mlh.io/): A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
-
-
